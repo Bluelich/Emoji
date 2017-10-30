@@ -1,0 +1,6730 @@
+[
+  [
+    {
+      "unicode" : "00a9",
+      "emoji" : "©️",
+      "description" : "COPYRIGHT SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%C2%A9"
+    },
+    {
+      "unicode" : "00ae",
+      "emoji" : "®️",
+      "description" : "REGISTERED SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%C2%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "203c",
+      "emoji" : "‼️",
+      "description" : "DOUBLE EXCLAMATION MARK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/!!_(disambiguation)"
+    }
+  ],
+  [
+    {
+      "unicode" : "2049",
+      "emoji" : "⁉️",
+      "description" : "EXCLAMATION QUESTION MARK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%81%89"
+    }
+  ],
+  [
+    {
+      "unicode" : "2122",
+      "emoji" : "™️",
+      "description" : "TRADE MARK SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%84%A2"
+    }
+  ],
+  [
+    {
+      "unicode" : "2139",
+      "emoji" : "ℹ️",
+      "description" : "INFORMATION SOURCE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Media_controls"
+    }
+  ],
+  [
+    {
+      "unicode" : "2194",
+      "emoji" : "↔️",
+      "description" : "LEFT RIGHT ARROW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%86%94"
+    },
+    {
+      "unicode" : "2195",
+      "emoji" : "↕️",
+      "description" : "UP DOWN ARROW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Vertical_(disambiguation)"
+    },
+    {
+      "unicode" : "2196",
+      "emoji" : "↖️",
+      "description" : "NORTH WEST ARROW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%86%96"
+    },
+    {
+      "unicode" : "2197",
+      "emoji" : "↗️",
+      "description" : "NORTH EAST ARROW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%86%97"
+    },
+    {
+      "unicode" : "2198",
+      "emoji" : "↘️",
+      "description" : "SOUTH EAST ARROW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%86%98"
+    },
+    {
+      "unicode" : "2199",
+      "emoji" : "↙️",
+      "description" : "SOUTH WEST ARROW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%86%99"
+    }
+  ],
+  [
+    {
+      "unicode" : "21a9",
+      "emoji" : "↩️",
+      "description" : "LEFTWARDS ARROW WITH HOOK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%86%A9"
+    },
+    {
+      "unicode" : "21aa",
+      "emoji" : "↪️",
+      "description" : "RIGHTWARDS ARROW WITH HOOK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%86%AA"
+    }
+  ],
+  [
+    {
+      "unicode" : "231a",
+      "emoji" : "⌚️",
+      "description" : "WATCH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%8C%9A"
+    },
+    {
+      "unicode" : "231b",
+      "emoji" : "⌛️",
+      "description" : "HOURGLASS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%8C%9B"
+    }
+  ],
+  [
+    {
+      "unicode" : "2328",
+      "emoji" : "⌨️",
+      "description" : "KEYBOARD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%8C%A8"
+    }
+  ],
+  [
+    {
+      "unicode" : "23e9",
+      "emoji" : "⏩️",
+      "description" : "BLACK RIGHT-POINTING DOUBLE TRIANGLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Media_controls"
+    },
+    {
+      "unicode" : "23ea",
+      "emoji" : "⏪️",
+      "description" : "BLACK LEFT-POINTING DOUBLE TRIANGLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Media_controls"
+    },
+    {
+      "unicode" : "23eb",
+      "emoji" : "⏫️",
+      "description" : "BLACK UP-POINTING DOUBLE TRIANGLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Media_controls"
+    },
+    {
+      "unicode" : "23ec",
+      "emoji" : "⏬️",
+      "description" : "BLACK DOWN-POINTING DOUBLE TRIANGLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Media_controls"
+    },
+    {
+      "unicode" : "23ed",
+      "emoji" : "⏭️",
+      "description" : "BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Media_controls"
+    },
+    {
+      "unicode" : "23ee",
+      "emoji" : "⏮️",
+      "description" : "BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Media_controls"
+    }
+  ],
+  [
+    {
+      "unicode" : "23f0",
+      "emoji" : "⏰️",
+      "description" : "ALARM CLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%8F%B0"
+    },
+    {
+      "unicode" : "23f1",
+      "emoji" : "⏱️",
+      "description" : "STOPWATCH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%8F%B1"
+    },
+    {
+      "unicode" : "23f2",
+      "emoji" : "⏲️",
+      "description" : "TIMER CLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%8F%B2"
+    },
+    {
+      "unicode" : "23f3",
+      "emoji" : "⏳️",
+      "description" : "HOURGLASS WITH FLOWING SAND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%8F%B3"
+    },
+    {
+      "unicode" : "23f8",
+      "emoji" : "⏸️",
+      "description" : "DOUBLE VERTICAL BAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Media_controls"
+    },
+    {
+      "unicode" : "23f9",
+      "emoji" : "⏹️",
+      "description" : "BLACK SQUARE FOR STOP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Media_controls"
+    },
+    {
+      "unicode" : "23fa",
+      "emoji" : "⏺️",
+      "description" : "BLACK CIRCLE FOR RECORD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Media_controls"
+    }
+  ],
+  [
+    {
+      "unicode" : "24c2",
+      "emoji" : "Ⓜ️",
+      "description" : "CIRCLED LATIN CAPITAL LETTER M",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Enclosed_Alphanumerics#Emoji"
+    }
+  ],
+  [
+    {
+      "unicode" : "25aa",
+      "emoji" : "▪️",
+      "description" : "BLACK SMALL SQUARE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%96%AA"
+    },
+    {
+      "unicode" : "25ab",
+      "emoji" : "▫️",
+      "description" : "WHITE SMALL SQUARE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%96%AB"
+    }
+  ],
+  [
+    {
+      "unicode" : "25b6",
+      "emoji" : "▶️",
+      "description" : "BLACK RIGHT-POINTING TRIANGLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Media_controls"
+    }
+  ],
+  [
+    {
+      "unicode" : "25c0",
+      "emoji" : "◀️",
+      "description" : "BLACK LEFT-POINTING TRIANGLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Media_controls"
+    }
+  ],
+  [
+    {
+      "unicode" : "25fb",
+      "emoji" : "◻️",
+      "description" : "WHITE MEDIUM SQUARE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%97%BB"
+    },
+    {
+      "unicode" : "25fc",
+      "emoji" : "◼️",
+      "description" : "BLACK MEDIUM SQUARE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%97%BC"
+    },
+    {
+      "unicode" : "25fd",
+      "emoji" : "◽️",
+      "description" : "WHITE MEDIUM SMALL SQUARE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%97%BD"
+    },
+    {
+      "unicode" : "25fe",
+      "emoji" : "◾️",
+      "description" : "BLACK MEDIUM SMALL SQUARE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%97%BE"
+    }
+  ],
+  [
+    {
+      "unicode" : "2600",
+      "emoji" : "☀️",
+      "description" : "BLACK SUN WITH RAYS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%80"
+    },
+    {
+      "unicode" : "2601",
+      "emoji" : "☁️",
+      "description" : "CLOUD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%81"
+    },
+    {
+      "unicode" : "2602",
+      "emoji" : "☂️",
+      "description" : "UMBRELLA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%82"
+    },
+    {
+      "unicode" : "2603",
+      "emoji" : "☃️",
+      "description" : "SNOWMAN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%83"
+    },
+    {
+      "unicode" : "2604",
+      "emoji" : "☄️",
+      "description" : "COMET",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%84"
+    },
+    {
+      "unicode" : "260e",
+      "emoji" : "☎️",
+      "description" : "BLACK TELEPHONE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "2611",
+      "emoji" : "☑️",
+      "description" : "BALLOT BOX WITH CHECK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%91"
+    },
+    {
+      "unicode" : "2614",
+      "emoji" : "☔️",
+      "description" : "UMBRELLA WITH RAIN DROPS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%94"
+    },
+    {
+      "unicode" : "2615",
+      "emoji" : "☕️",
+      "description" : "HOT BEVERAGE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%95"
+    },
+    {
+      "unicode" : "2618",
+      "emoji" : "☘️",
+      "description" : "SHAMROCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%98"
+    },
+    {
+      "unicode" : "261d",
+      "emoji" : "☝️",
+      "description" : "WHITE UP POINTING INDEX",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%9D"
+    }
+  ],
+  [
+    {
+      "unicode" : "2620",
+      "emoji" : "☠️",
+      "description" : "SKULL AND CROSSBONES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Skull_and_crossbones_(disambiguation)"
+    },
+    {
+      "unicode" : "2622",
+      "emoji" : "☢️",
+      "description" : "RADIOACTIVE SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%A2"
+    },
+    {
+      "unicode" : "2623",
+      "emoji" : "☣️",
+      "description" : "BIOHAZARD SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%A3"
+    },
+    {
+      "unicode" : "2626",
+      "emoji" : "☦️",
+      "description" : "ORTHODOX CROSS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%A6"
+    },
+    {
+      "unicode" : "262a",
+      "emoji" : "☪️",
+      "description" : "STAR AND CRESCENT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%AA"
+    },
+    {
+      "unicode" : "262e",
+      "emoji" : "☮️",
+      "description" : "PEACE SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "2638",
+      "emoji" : "☸️",
+      "description" : "WHEEL OF DHARMA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%B8"
+    },
+    {
+      "unicode" : "2639",
+      "emoji" : "☹️",
+      "description" : "WHITE FROWNING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%B9"
+    },
+    {
+      "unicode" : "263a",
+      "emoji" : "☺️",
+      "description" : "WHITE SMILING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%98%BA"
+    }
+  ],
+  [
+    {
+      "unicode" : "2640",
+      "emoji" : "♀️",
+      "description" : "FEMALE SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%80"
+    },
+    {
+      "unicode" : "2642",
+      "emoji" : "♂️",
+      "description" : "MALE SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%82"
+    },
+    {
+      "unicode" : "2648",
+      "emoji" : "♈️",
+      "description" : "ARIES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%88"
+    },
+    {
+      "unicode" : "2649",
+      "emoji" : "♉️",
+      "description" : "TAURUS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%89"
+    },
+    {
+      "unicode" : "264a",
+      "emoji" : "♊️",
+      "description" : "GEMINI",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%8A"
+    },
+    {
+      "unicode" : "264b",
+      "emoji" : "♋️",
+      "description" : "CANCER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%8B"
+    },
+    {
+      "unicode" : "264c",
+      "emoji" : "♌️",
+      "description" : "LEO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%8C"
+    },
+    {
+      "unicode" : "264d",
+      "emoji" : "♍️",
+      "description" : "VIRGO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%8D"
+    },
+    {
+      "unicode" : "264e",
+      "emoji" : "♎️",
+      "description" : "LIBRA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "2650",
+      "emoji" : "♐️",
+      "description" : "SAGITTARIUS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%90"
+    },
+    {
+      "unicode" : "2651",
+      "emoji" : "♑️",
+      "description" : "CAPRICORN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%91"
+    },
+    {
+      "unicode" : "2652",
+      "emoji" : "♒️",
+      "description" : "AQUARIUS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%92"
+    },
+    {
+      "unicode" : "2653",
+      "emoji" : "♓️",
+      "description" : "PISCES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%93"
+    }
+  ],
+  [
+    {
+      "unicode" : "2660",
+      "emoji" : "♠️",
+      "description" : "BLACK SPADE SUIT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Suit_(cards)"
+    },
+    {
+      "unicode" : "2663",
+      "emoji" : "♣️",
+      "description" : "BLACK CLUB SUIT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Suit_(cards)"
+    },
+    {
+      "unicode" : "2665",
+      "emoji" : "♥️",
+      "description" : "BLACK HEART SUIT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Suit_(cards)"
+    },
+    {
+      "unicode" : "2666",
+      "emoji" : "♦️",
+      "description" : "BLACK DIAMOND SUIT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Suit_(cards)"
+    },
+    {
+      "unicode" : "2668",
+      "emoji" : "♨️",
+      "description" : "HOT SPRINGS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%A8"
+    }
+  ],
+  [
+    {
+      "unicode" : "267b",
+      "emoji" : "♻️",
+      "description" : "BLACK UNIVERSAL RECYCLING SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%99%BB"
+    }
+  ],
+  [
+    {
+      "unicode" : "2692",
+      "emoji" : "⚒️",
+      "description" : "HAMMER AND PICK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%92"
+    },
+    {
+      "unicode" : "2693",
+      "emoji" : "⚓️",
+      "description" : "ANCHOR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%93"
+    },
+    {
+      "unicode" : "2694",
+      "emoji" : "⚔️",
+      "description" : "CROSSED SWORDS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%94"
+    },
+    {
+      "unicode" : "2695",
+      "emoji" : "⚕️",
+      "description" : "STAFF OF AESCULAPIUS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%95"
+    },
+    {
+      "unicode" : "2696",
+      "emoji" : "⚖️",
+      "description" : "SCALES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%96"
+    },
+    {
+      "unicode" : "2697",
+      "emoji" : "⚗️",
+      "description" : "ALEMBIC",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%97"
+    },
+    {
+      "unicode" : "2699",
+      "emoji" : "⚙️",
+      "description" : "GEAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%99"
+    },
+    {
+      "unicode" : "269b",
+      "emoji" : "⚛️",
+      "description" : "ATOM SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%9B"
+    },
+    {
+      "unicode" : "269c",
+      "emoji" : "⚜️",
+      "description" : "FLEUR-DE-LIS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%9C"
+    }
+  ],
+  [
+    {
+      "unicode" : "26a0",
+      "emoji" : "⚠️",
+      "description" : "WARNING SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%A0"
+    },
+    {
+      "unicode" : "26a1",
+      "emoji" : "⚡️",
+      "description" : "HIGH VOLTAGE SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%A1"
+    },
+    {
+      "unicode" : "26aa",
+      "emoji" : "⚪️",
+      "description" : "MEDIUM WHITE CIRCLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%AA"
+    },
+    {
+      "unicode" : "26ab",
+      "emoji" : "⚫️",
+      "description" : "MEDIUM BLACK CIRCLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Media_controls"
+    }
+  ],
+  [
+    {
+      "unicode" : "26b0",
+      "emoji" : "⚰️",
+      "description" : "COFFIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%B0"
+    },
+    {
+      "unicode" : "26b1",
+      "emoji" : "⚱️",
+      "description" : "FUNERAL URN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%B1"
+    },
+    {
+      "unicode" : "26bd",
+      "emoji" : "⚽️",
+      "description" : "SOCCER BALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%BD"
+    },
+    {
+      "unicode" : "26be",
+      "emoji" : "⚾️",
+      "description" : "BASEBALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9A%BE"
+    }
+  ],
+  [
+    {
+      "unicode" : "26c4",
+      "emoji" : "⛄️",
+      "description" : "SNOWMAN WITHOUT SNOW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%84"
+    },
+    {
+      "unicode" : "26c5",
+      "emoji" : "⛅️",
+      "description" : "SUN BEHIND CLOUD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%85"
+    },
+    {
+      "unicode" : "26c8",
+      "emoji" : "⛈️",
+      "description" : "THUNDER CLOUD AND RAIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%88"
+    },
+    {
+      "unicode" : "26ce",
+      "emoji" : "⛎️",
+      "description" : "OPHIUCHUS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "26d1",
+      "emoji" : "⛑️",
+      "description" : "HELMET WITH WHITE CROSS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%91"
+    },
+    {
+      "unicode" : "26d3",
+      "emoji" : "⛓️",
+      "description" : "CHAINS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%93"
+    },
+    {
+      "unicode" : "26d4",
+      "emoji" : "⛔️",
+      "description" : "NO ENTRY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%94"
+    }
+  ],
+  [
+    {
+      "unicode" : "26e9",
+      "emoji" : "⛩️",
+      "description" : "SHINTO SHRINE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%A9"
+    },
+    {
+      "unicode" : "26ea",
+      "emoji" : "⛪️",
+      "description" : "CHURCH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%AA"
+    }
+  ],
+  [
+    {
+      "unicode" : "26f0",
+      "emoji" : "⛰️",
+      "description" : "MOUNTAIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%B0"
+    },
+    {
+      "unicode" : "26f1",
+      "emoji" : "⛱️",
+      "description" : "UMBRELLA ON GROUND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%B1"
+    },
+    {
+      "unicode" : "26f2",
+      "emoji" : "⛲️",
+      "description" : "FOUNTAIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%B2"
+    },
+    {
+      "unicode" : "26f3",
+      "emoji" : "⛳️",
+      "description" : "FLAG IN HOLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%B3"
+    },
+    {
+      "unicode" : "26f4",
+      "emoji" : "⛴️",
+      "description" : "FERRY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%B4"
+    },
+    {
+      "unicode" : "26f5",
+      "emoji" : "⛵️",
+      "description" : "SAILBOAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%B5"
+    },
+    {
+      "unicode" : "26f7",
+      "emoji" : "⛷️",
+      "description" : "SKIER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%B7"
+    },
+    {
+      "unicode" : "26f8",
+      "emoji" : "⛸️",
+      "description" : "ICE SKATE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%B8"
+    },
+    {
+      "unicode" : "26f9",
+      "emoji" : "⛹️",
+      "description" : "PERSON WITH BALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%B9"
+    },
+    {
+      "unicode" : "26fa",
+      "emoji" : "⛺️",
+      "description" : "TENT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%BA"
+    },
+    {
+      "unicode" : "26fd",
+      "emoji" : "⛽️",
+      "description" : "FUEL PUMP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9B%BD"
+    }
+  ],
+  [
+    {
+      "unicode" : "2702",
+      "emoji" : "✂️",
+      "description" : "BLACK SCISSORS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%82"
+    },
+    {
+      "unicode" : "2705",
+      "emoji" : "✅️",
+      "description" : "WHITE HEAVY CHECK MARK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%85"
+    },
+    {
+      "unicode" : "2708",
+      "emoji" : "✈️",
+      "description" : "AIRPLANE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%88"
+    },
+    {
+      "unicode" : "2709",
+      "emoji" : "✉️",
+      "description" : "ENVELOPE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%89"
+    },
+    {
+      "unicode" : "270a",
+      "emoji" : "✊️",
+      "description" : "RAISED FIST",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%8A"
+    },
+    {
+      "unicode" : "270b",
+      "emoji" : "✋️",
+      "description" : "RAISED HAND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%8B"
+    },
+    {
+      "unicode" : "270c",
+      "emoji" : "✌️",
+      "description" : "VICTORY HAND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%8C"
+    },
+    {
+      "unicode" : "270d",
+      "emoji" : "✍️",
+      "description" : "WRITING HAND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%8D"
+    }
+  ],
+  [
+    {
+      "unicode" : "2712",
+      "emoji" : "✒️",
+      "description" : "BLACK NIB",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%92"
+    },
+    {
+      "unicode" : "2714",
+      "emoji" : "✔️",
+      "description" : "HEAVY CHECK MARK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%94"
+    },
+    {
+      "unicode" : "2716",
+      "emoji" : "✖️",
+      "description" : "HEAVY MULTIPLICATION X",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/X_mark"
+    },
+    {
+      "unicode" : "271d",
+      "emoji" : "✝️",
+      "description" : "LATIN CROSS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%9D"
+    }
+  ],
+  [
+    {
+      "unicode" : "2721",
+      "emoji" : "✡️",
+      "description" : "STAR OF DAVID",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%A1"
+    },
+    {
+      "unicode" : "2728",
+      "emoji" : "✨️",
+      "description" : "SPARKLES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%A8"
+    }
+  ],
+  [
+    {
+      "unicode" : "2733",
+      "emoji" : "✳️",
+      "description" : "EIGHT SPOKED ASTERISK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%B3"
+    },
+    {
+      "unicode" : "2734",
+      "emoji" : "✴️",
+      "description" : "EIGHT POINTED BLACK STAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9C%B4"
+    }
+  ],
+  [
+    {
+      "unicode" : "2744",
+      "emoji" : "❄️",
+      "description" : "SNOWFLAKE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9D%84"
+    },
+    {
+      "unicode" : "2747",
+      "emoji" : "❇️",
+      "description" : "SPARKLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9D%87"
+    },
+    {
+      "unicode" : "274c",
+      "emoji" : "❌️",
+      "description" : "CROSS MARK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9D%8C"
+    },
+    {
+      "unicode" : "274e",
+      "emoji" : "❎️",
+      "description" : "NEGATIVE SQUARED CROSS MARK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9D%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "2753",
+      "emoji" : "❓️",
+      "description" : "BLACK QUESTION MARK ORNAMENT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9D%93"
+    },
+    {
+      "unicode" : "2754",
+      "emoji" : "❔️",
+      "description" : "WHITE QUESTION MARK ORNAMENT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9D%94"
+    },
+    {
+      "unicode" : "2755",
+      "emoji" : "❕️",
+      "description" : "WHITE EXCLAMATION MARK ORNAMENT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9D%95"
+    },
+    {
+      "unicode" : "2757",
+      "emoji" : "❗️",
+      "description" : "HEAVY EXCLAMATION MARK SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9D%97"
+    }
+  ],
+  [
+    {
+      "unicode" : "2763",
+      "emoji" : "❣️",
+      "description" : "HEAVY HEART EXCLAMATION MARK ORNAMENT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9D%A3"
+    },
+    {
+      "unicode" : "2764",
+      "emoji" : "❤️",
+      "description" : "HEAVY BLACK HEART",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9D%A4"
+    }
+  ],
+  [
+    {
+      "unicode" : "2795",
+      "emoji" : "➕️",
+      "description" : "HEAVY PLUS SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9E%95"
+    },
+    {
+      "unicode" : "2796",
+      "emoji" : "➖️",
+      "description" : "HEAVY MINUS SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9E%96"
+    },
+    {
+      "unicode" : "2797",
+      "emoji" : "➗️",
+      "description" : "HEAVY DIVISION SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9E%97"
+    }
+  ],
+  [
+    {
+      "unicode" : "27a1",
+      "emoji" : "➡️",
+      "description" : "BLACK RIGHTWARDS ARROW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%9E%A1"
+    }
+  ],
+  [
+    {
+      "unicode" : "27b0",
+      "emoji" : "➰️",
+      "description" : "CURLY LOOP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Loop_the_loop_(disambiguation)"
+    }
+  ],
+  [
+    {
+      "unicode" : "2934",
+      "emoji" : "⤴️",
+      "description" : "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%A4%B4"
+    },
+    {
+      "unicode" : "2935",
+      "emoji" : "⤵️",
+      "description" : "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%E2%A4%B5&amp;action=edit&amp;redlink=1"
+    }
+  ],
+  [
+    {
+      "unicode" : "2b05",
+      "emoji" : "⬅️",
+      "description" : "LEFTWARDS BLACK ARROW",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%E2%AC%85&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "2b06",
+      "emoji" : "⬆️",
+      "description" : "UPWARDS BLACK ARROW",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%E2%AC%86&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "2b07",
+      "emoji" : "⬇️",
+      "description" : "DOWNWARDS BLACK ARROW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%86%93_(disambiguation)"
+    }
+  ],
+  [
+    {
+      "unicode" : "2b1b",
+      "emoji" : "⬛️",
+      "description" : "BLACK LARGE SQUARE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%AC%9B"
+    },
+    {
+      "unicode" : "2b1c",
+      "emoji" : "⬜️",
+      "description" : "WHITE LARGE SQUARE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%AC%9C"
+    }
+  ],
+  [
+    {
+      "unicode" : "2b50",
+      "emoji" : "⭐️",
+      "description" : "WHITE MEDIUM STAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%AD%90"
+    },
+    {
+      "unicode" : "2b55",
+      "emoji" : "⭕️",
+      "description" : "HEAVY LARGE CIRCLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E2%AD%95"
+    }
+  ],
+  [
+    {
+      "unicode" : "3030",
+      "emoji" : "〰️",
+      "description" : "WAVY DASH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E3%80%B0"
+    },
+    {
+      "unicode" : "303d",
+      "emoji" : "〽️",
+      "description" : "PART ALTERNATION MARK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E3%80%BD"
+    }
+  ],
+  [
+    {
+      "unicode" : "3297",
+      "emoji" : "㊗️",
+      "description" : "CIRCLED IDEOGRAPH CONGRATULATION",
+      "wiki" : "https:\/\/en.wikipedia.orghttps:\/\/en.wiktionary.org\/wiki\/%E7%A5%9D%E3%81%84"
+    },
+    {
+      "unicode" : "3299",
+      "emoji" : "㊙️",
+      "description" : "CIRCLED IDEOGRAPH SECRET",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%E3%8A%99&amp;action=edit&amp;redlink=1"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f004",
+      "emoji" : "🀄",
+      "description" : "MAHJONG TILE RED DRAGON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%80%84"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f170",
+      "emoji" : "🅰️",
+      "description" : "NEGATIVE SQUARED LATIN CAPITAL LETTER A",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%85%B0"
+    },
+    {
+      "unicode" : "1f171",
+      "emoji" : "🅱️",
+      "description" : "NEGATIVE SQUARED LATIN CAPITAL LETTER B",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%85%B1"
+    },
+    {
+      "unicode" : "1f17e",
+      "emoji" : "🅾️",
+      "description" : "NEGATIVE SQUARED LATIN CAPITAL LETTER O",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%85%BE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f18e",
+      "emoji" : "🆎",
+      "description" : "NEGATIVE SQUARED AB",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%86%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f191",
+      "emoji" : "🆑",
+      "description" : "SQUARED CL",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%86%91&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f192",
+      "emoji" : "🆒",
+      "description" : "SQUARED COOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%86%92"
+    },
+    {
+      "unicode" : "1f193",
+      "emoji" : "🆓",
+      "description" : "SQUARED FREE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%86%93"
+    },
+    {
+      "unicode" : "1f194",
+      "emoji" : "🆔",
+      "description" : "SQUARED ID",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%86%94"
+    },
+    {
+      "unicode" : "1f195",
+      "emoji" : "🆕",
+      "description" : "SQUARED NEW",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%86%95&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f196",
+      "emoji" : "🆖",
+      "description" : "SQUARED NG",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%86%96&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f197",
+      "emoji" : "🆗",
+      "description" : "SQUARED OK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%86%97"
+    },
+    {
+      "unicode" : "1f198",
+      "emoji" : "🆘",
+      "description" : "SQUARED SOS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%86%98"
+    },
+    {
+      "unicode" : "1f199",
+      "emoji" : "🆙",
+      "description" : "SQUARED UP WITH EXCLAMATION MARK",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%86%99&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f19a",
+      "emoji" : "🆚",
+      "description" : "SQUARED VS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%86%9A"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f201",
+      "emoji" : "🈁",
+      "description" : "SQUARED KATAKANA KOKO",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%88%81&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f202",
+      "emoji" : "🈂️",
+      "description" : "SQUARED KATAKANA SA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%88%82"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f21a",
+      "emoji" : "🈚",
+      "description" : "SQUARED CJK UNIFIED IDEOGRAPH-7121",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%88%9A"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f232",
+      "emoji" : "🈲",
+      "description" : "SQUARED CJK UNIFIED IDEOGRAPH-7981",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%88%B2&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f233",
+      "emoji" : "🈳",
+      "description" : "SQUARED CJK UNIFIED IDEOGRAPH-7A7A",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%88%B3&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f234",
+      "emoji" : "🈴",
+      "description" : "SQUARED CJK UNIFIED IDEOGRAPH-5408",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%88%B4&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f235",
+      "emoji" : "🈵",
+      "description" : "SQUARED CJK UNIFIED IDEOGRAPH-6E80",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%88%B5&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f236",
+      "emoji" : "🈶",
+      "description" : "SQUARED CJK UNIFIED IDEOGRAPH-6709",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%88%B6&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f237",
+      "emoji" : "🈷️",
+      "description" : "SQUARED CJK UNIFIED IDEOGRAPH-6708",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%88%B7"
+    },
+    {
+      "unicode" : "1f238",
+      "emoji" : "🈸",
+      "description" : "SQUARED CJK UNIFIED IDEOGRAPH-7533",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%88%B8&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f239",
+      "emoji" : "🈹",
+      "description" : "SQUARED CJK UNIFIED IDEOGRAPH-5272",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%88%B9&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f23a",
+      "emoji" : "🈺",
+      "description" : "SQUARED CJK UNIFIED IDEOGRAPH-55B6",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%88%BA&amp;action=edit&amp;redlink=1"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f250",
+      "emoji" : "🉐",
+      "description" : "CIRCLED IDEOGRAPH ADVANTAGE",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%89%90&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f251",
+      "emoji" : "🉑",
+      "description" : "CIRCLED IDEOGRAPH ACCEPT",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%89%91&amp;action=edit&amp;redlink=1"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f300",
+      "emoji" : "🌀",
+      "description" : "CYCLONE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%80"
+    },
+    {
+      "unicode" : "1f301",
+      "emoji" : "🌁",
+      "description" : "FOGGY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%81"
+    },
+    {
+      "unicode" : "1f302",
+      "emoji" : "🌂",
+      "description" : "CLOSED UMBRELLA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%82"
+    },
+    {
+      "unicode" : "1f303",
+      "emoji" : "🌃",
+      "description" : "NIGHT WITH STARS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%83"
+    },
+    {
+      "unicode" : "1f304",
+      "emoji" : "🌄",
+      "description" : "SUNRISE OVER MOUNTAINS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%84"
+    },
+    {
+      "unicode" : "1f305",
+      "emoji" : "🌅",
+      "description" : "SUNRISE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%85"
+    },
+    {
+      "unicode" : "1f306",
+      "emoji" : "🌆",
+      "description" : "CITYSCAPE AT DUSK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%86"
+    },
+    {
+      "unicode" : "1f307",
+      "emoji" : "🌇",
+      "description" : "SUNSET OVER BUILDINGS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%87"
+    },
+    {
+      "unicode" : "1f308",
+      "emoji" : "🌈",
+      "description" : "RAINBOW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%88"
+    },
+    {
+      "unicode" : "1f309",
+      "emoji" : "🌉",
+      "description" : "BRIDGE AT NIGHT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%89"
+    },
+    {
+      "unicode" : "1f30a",
+      "emoji" : "🌊",
+      "description" : "WATER WAVE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%8A"
+    },
+    {
+      "unicode" : "1f30b",
+      "emoji" : "🌋",
+      "description" : "VOLCANO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%8B"
+    },
+    {
+      "unicode" : "1f30c",
+      "emoji" : "🌌",
+      "description" : "MILKY WAY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%8C"
+    },
+    {
+      "unicode" : "1f30d",
+      "emoji" : "🌍",
+      "description" : "EARTH GLOBE EUROPE-AFRICA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%8D"
+    },
+    {
+      "unicode" : "1f30e",
+      "emoji" : "🌎",
+      "description" : "EARTH GLOBE AMERICAS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f310",
+      "emoji" : "🌐",
+      "description" : "GLOBE WITH MERIDIANS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%90"
+    },
+    {
+      "unicode" : "1f311",
+      "emoji" : "🌑",
+      "description" : "NEW MOON SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%91"
+    },
+    {
+      "unicode" : "1f312",
+      "emoji" : "🌒",
+      "description" : "WAXING CRESCENT MOON SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%92"
+    },
+    {
+      "unicode" : "1f313",
+      "emoji" : "🌓",
+      "description" : "FIRST QUARTER MOON SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%93"
+    },
+    {
+      "unicode" : "1f314",
+      "emoji" : "🌔",
+      "description" : "WAXING GIBBOUS MOON SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%94"
+    },
+    {
+      "unicode" : "1f315",
+      "emoji" : "🌕",
+      "description" : "FULL MOON SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%95"
+    },
+    {
+      "unicode" : "1f316",
+      "emoji" : "🌖",
+      "description" : "WANING GIBBOUS MOON SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%96"
+    },
+    {
+      "unicode" : "1f317",
+      "emoji" : "🌗",
+      "description" : "LAST QUARTER MOON SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%97"
+    },
+    {
+      "unicode" : "1f318",
+      "emoji" : "🌘",
+      "description" : "WANING CRESCENT MOON SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%98"
+    },
+    {
+      "unicode" : "1f319",
+      "emoji" : "🌙",
+      "description" : "CRESCENT MOON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%99"
+    },
+    {
+      "unicode" : "1f31a",
+      "emoji" : "🌚",
+      "description" : "NEW MOON WITH FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%9A"
+    },
+    {
+      "unicode" : "1f31b",
+      "emoji" : "🌛",
+      "description" : "FIRST QUARTER MOON WITH FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%9B"
+    },
+    {
+      "unicode" : "1f31c",
+      "emoji" : "🌜",
+      "description" : "LAST QUARTER MOON WITH FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%9C"
+    },
+    {
+      "unicode" : "1f31d",
+      "emoji" : "🌝",
+      "description" : "FULL MOON WITH FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%9D"
+    },
+    {
+      "unicode" : "1f31e",
+      "emoji" : "🌞",
+      "description" : "SUN WITH FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f320",
+      "emoji" : "🌠",
+      "description" : "SHOOTING STAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%A0"
+    },
+    {
+      "unicode" : "1f321",
+      "emoji" : "🌡️",
+      "description" : "THERMOMETER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%A1"
+    },
+    {
+      "unicode" : "1f324",
+      "emoji" : "🌤️",
+      "description" : "WHITE SUN WITH SMALL CLOUD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%A4"
+    },
+    {
+      "unicode" : "1f325",
+      "emoji" : "🌥️",
+      "description" : "WHITE SUN BEHIND CLOUD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%A5"
+    },
+    {
+      "unicode" : "1f326",
+      "emoji" : "🌦️",
+      "description" : "WHITE SUN BEHIND CLOUD WITH RAIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%A6"
+    },
+    {
+      "unicode" : "1f327",
+      "emoji" : "🌧️",
+      "description" : "CLOUD WITH RAIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%A7"
+    },
+    {
+      "unicode" : "1f328",
+      "emoji" : "🌨️",
+      "description" : "CLOUD WITH SNOW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%A8"
+    },
+    {
+      "unicode" : "1f329",
+      "emoji" : "🌩️",
+      "description" : "CLOUD WITH LIGHTNING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%A9"
+    },
+    {
+      "unicode" : "1f32a",
+      "emoji" : "🌪️",
+      "description" : "CLOUD WITH TORNADO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%AA"
+    },
+    {
+      "unicode" : "1f32b",
+      "emoji" : "🌫️",
+      "description" : "FOG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%AB"
+    },
+    {
+      "unicode" : "1f32c",
+      "emoji" : "🌬️",
+      "description" : "WIND BLOWING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%AC"
+    },
+    {
+      "unicode" : "1f32d",
+      "emoji" : "🌭",
+      "description" : "HOT DOG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%AD"
+    },
+    {
+      "unicode" : "1f32e",
+      "emoji" : "🌮",
+      "description" : "TACO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f330",
+      "emoji" : "🌰",
+      "description" : "CHESTNUT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%B0"
+    },
+    {
+      "unicode" : "1f331",
+      "emoji" : "🌱",
+      "description" : "SEEDLING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%B1"
+    },
+    {
+      "unicode" : "1f332",
+      "emoji" : "🌲",
+      "description" : "EVERGREEN TREE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%B2"
+    },
+    {
+      "unicode" : "1f333",
+      "emoji" : "🌳",
+      "description" : "DECIDUOUS TREE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%B3"
+    },
+    {
+      "unicode" : "1f334",
+      "emoji" : "🌴",
+      "description" : "PALM TREE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%B4"
+    },
+    {
+      "unicode" : "1f335",
+      "emoji" : "🌵",
+      "description" : "CACTUS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%B5"
+    },
+    {
+      "unicode" : "1f336",
+      "emoji" : "🌶️",
+      "description" : "HOT PEPPER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%B6"
+    },
+    {
+      "unicode" : "1f337",
+      "emoji" : "🌷",
+      "description" : "TULIP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%B7"
+    },
+    {
+      "unicode" : "1f338",
+      "emoji" : "🌸",
+      "description" : "CHERRY BLOSSOM",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%B8"
+    },
+    {
+      "unicode" : "1f339",
+      "emoji" : "🌹",
+      "description" : "ROSE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%B9"
+    },
+    {
+      "unicode" : "1f33a",
+      "emoji" : "🌺",
+      "description" : "HIBISCUS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%BA"
+    },
+    {
+      "unicode" : "1f33b",
+      "emoji" : "🌻",
+      "description" : "SUNFLOWER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%BB"
+    },
+    {
+      "unicode" : "1f33c",
+      "emoji" : "🌼",
+      "description" : "BLOSSOM",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%BC"
+    },
+    {
+      "unicode" : "1f33d",
+      "emoji" : "🌽",
+      "description" : "EAR OF MAIZE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%BD"
+    },
+    {
+      "unicode" : "1f33e",
+      "emoji" : "🌾",
+      "description" : "EAR OF RICE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8C%BE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f340",
+      "emoji" : "🍀",
+      "description" : "FOUR LEAF CLOVER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%80"
+    },
+    {
+      "unicode" : "1f341",
+      "emoji" : "🍁",
+      "description" : "MAPLE LEAF",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%81"
+    },
+    {
+      "unicode" : "1f342",
+      "emoji" : "🍂",
+      "description" : "FALLEN LEAF",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%82"
+    },
+    {
+      "unicode" : "1f343",
+      "emoji" : "🍃",
+      "description" : "LEAF FLUTTERING IN WIND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%83"
+    },
+    {
+      "unicode" : "1f344",
+      "emoji" : "🍄",
+      "description" : "MUSHROOM",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%84"
+    },
+    {
+      "unicode" : "1f345",
+      "emoji" : "🍅",
+      "description" : "TOMATO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%85"
+    },
+    {
+      "unicode" : "1f346",
+      "emoji" : "🍆",
+      "description" : "AUBERGINE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%86"
+    },
+    {
+      "unicode" : "1f347",
+      "emoji" : "🍇",
+      "description" : "GRAPES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%87"
+    },
+    {
+      "unicode" : "1f348",
+      "emoji" : "🍈",
+      "description" : "MELON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%88"
+    },
+    {
+      "unicode" : "1f349",
+      "emoji" : "🍉",
+      "description" : "WATERMELON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%89"
+    },
+    {
+      "unicode" : "1f34a",
+      "emoji" : "🍊",
+      "description" : "TANGERINE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%8A"
+    },
+    {
+      "unicode" : "1f34b",
+      "emoji" : "🍋",
+      "description" : "LEMON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%8B"
+    },
+    {
+      "unicode" : "1f34c",
+      "emoji" : "🍌",
+      "description" : "BANANA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%8C"
+    },
+    {
+      "unicode" : "1f34d",
+      "emoji" : "🍍",
+      "description" : "PINEAPPLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%8D"
+    },
+    {
+      "unicode" : "1f34e",
+      "emoji" : "🍎",
+      "description" : "RED APPLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f350",
+      "emoji" : "🍐",
+      "description" : "PEAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%90"
+    },
+    {
+      "unicode" : "1f351",
+      "emoji" : "🍑",
+      "description" : "PEACH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%91"
+    },
+    {
+      "unicode" : "1f352",
+      "emoji" : "🍒",
+      "description" : "CHERRIES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%92"
+    },
+    {
+      "unicode" : "1f353",
+      "emoji" : "🍓",
+      "description" : "STRAWBERRY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%93"
+    },
+    {
+      "unicode" : "1f354",
+      "emoji" : "🍔",
+      "description" : "HAMBURGER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%94"
+    },
+    {
+      "unicode" : "1f355",
+      "emoji" : "🍕",
+      "description" : "SLICE OF PIZZA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%95"
+    },
+    {
+      "unicode" : "1f356",
+      "emoji" : "🍖",
+      "description" : "MEAT ON BONE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%96"
+    },
+    {
+      "unicode" : "1f357",
+      "emoji" : "🍗",
+      "description" : "POULTRY LEG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%97"
+    },
+    {
+      "unicode" : "1f358",
+      "emoji" : "🍘",
+      "description" : "RICE CRACKER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%98"
+    },
+    {
+      "unicode" : "1f359",
+      "emoji" : "🍙",
+      "description" : "RICE BALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%99"
+    },
+    {
+      "unicode" : "1f35a",
+      "emoji" : "🍚",
+      "description" : "COOKED RICE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%9A"
+    },
+    {
+      "unicode" : "1f35b",
+      "emoji" : "🍛",
+      "description" : "CURRY AND RICE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%9B"
+    },
+    {
+      "unicode" : "1f35c",
+      "emoji" : "🍜",
+      "description" : "STEAMING BOWL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%9C"
+    },
+    {
+      "unicode" : "1f35d",
+      "emoji" : "🍝",
+      "description" : "SPAGHETTI",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%9D"
+    },
+    {
+      "unicode" : "1f35e",
+      "emoji" : "🍞",
+      "description" : "BREAD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f360",
+      "emoji" : "🍠",
+      "description" : "ROASTED SWEET POTATO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%A0"
+    },
+    {
+      "unicode" : "1f361",
+      "emoji" : "🍡",
+      "description" : "DANGO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%A1"
+    },
+    {
+      "unicode" : "1f362",
+      "emoji" : "🍢",
+      "description" : "ODEN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%A2"
+    },
+    {
+      "unicode" : "1f363",
+      "emoji" : "🍣",
+      "description" : "SUSHI",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%A3"
+    },
+    {
+      "unicode" : "1f364",
+      "emoji" : "🍤",
+      "description" : "FRIED SHRIMP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%A4"
+    },
+    {
+      "unicode" : "1f365",
+      "emoji" : "🍥",
+      "description" : "FISH CAKE WITH SWIRL DESIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%A5"
+    },
+    {
+      "unicode" : "1f366",
+      "emoji" : "🍦",
+      "description" : "SOFT ICE CREAM",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%A6"
+    },
+    {
+      "unicode" : "1f367",
+      "emoji" : "🍧",
+      "description" : "SHAVED ICE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%A7"
+    },
+    {
+      "unicode" : "1f368",
+      "emoji" : "🍨",
+      "description" : "ICE CREAM",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%A8"
+    },
+    {
+      "unicode" : "1f369",
+      "emoji" : "🍩",
+      "description" : "DOUGHNUT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%A9"
+    },
+    {
+      "unicode" : "1f36a",
+      "emoji" : "🍪",
+      "description" : "COOKIE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%AA"
+    },
+    {
+      "unicode" : "1f36b",
+      "emoji" : "🍫",
+      "description" : "CHOCOLATE BAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%AB"
+    },
+    {
+      "unicode" : "1f36c",
+      "emoji" : "🍬",
+      "description" : "CANDY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%AC"
+    },
+    {
+      "unicode" : "1f36d",
+      "emoji" : "🍭",
+      "description" : "LOLLIPOP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%AD"
+    },
+    {
+      "unicode" : "1f36e",
+      "emoji" : "🍮",
+      "description" : "CUSTARD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f370",
+      "emoji" : "🍰",
+      "description" : "SHORTCAKE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%B0"
+    },
+    {
+      "unicode" : "1f371",
+      "emoji" : "🍱",
+      "description" : "BENTO BOX",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%B1"
+    },
+    {
+      "unicode" : "1f372",
+      "emoji" : "🍲",
+      "description" : "POT OF FOOD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%B2"
+    },
+    {
+      "unicode" : "1f373",
+      "emoji" : "🍳",
+      "description" : "COOKING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%B3"
+    },
+    {
+      "unicode" : "1f374",
+      "emoji" : "🍴",
+      "description" : "FORK AND KNIFE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%B4"
+    },
+    {
+      "unicode" : "1f375",
+      "emoji" : "🍵",
+      "description" : "TEACUP WITHOUT HANDLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%B5"
+    },
+    {
+      "unicode" : "1f376",
+      "emoji" : "🍶",
+      "description" : "SAKE BOTTLE AND CUP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%B6"
+    },
+    {
+      "unicode" : "1f377",
+      "emoji" : "🍷",
+      "description" : "WINE GLASS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%B7"
+    },
+    {
+      "unicode" : "1f378",
+      "emoji" : "🍸",
+      "description" : "COCKTAIL GLASS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%B8"
+    },
+    {
+      "unicode" : "1f379",
+      "emoji" : "🍹",
+      "description" : "TROPICAL DRINK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%B9"
+    },
+    {
+      "unicode" : "1f37a",
+      "emoji" : "🍺",
+      "description" : "BEER MUG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%BA"
+    },
+    {
+      "unicode" : "1f37b",
+      "emoji" : "🍻",
+      "description" : "CLINKING BEER MUGS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%BB"
+    },
+    {
+      "unicode" : "1f37c",
+      "emoji" : "🍼",
+      "description" : "BABY BOTTLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%BC"
+    },
+    {
+      "unicode" : "1f37d",
+      "emoji" : "🍽️",
+      "description" : "FORK AND KNIFE WITH PLATE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%BD"
+    },
+    {
+      "unicode" : "1f37e",
+      "emoji" : "🍾",
+      "description" : "BOTTLE WITH POPPING CORK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8D%BE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f380",
+      "emoji" : "🎀",
+      "description" : "RIBBON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%80"
+    },
+    {
+      "unicode" : "1f381",
+      "emoji" : "🎁",
+      "description" : "WRAPPED PRESENT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%81"
+    },
+    {
+      "unicode" : "1f382",
+      "emoji" : "🎂",
+      "description" : "BIRTHDAY CAKE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%82"
+    },
+    {
+      "unicode" : "1f383",
+      "emoji" : "🎃",
+      "description" : "JACK-O-LANTERN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%83"
+    },
+    {
+      "unicode" : "1f384",
+      "emoji" : "🎄",
+      "description" : "CHRISTMAS TREE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%84"
+    },
+    {
+      "unicode" : "1f385",
+      "emoji" : "🎅",
+      "description" : "FATHER CHRISTMAS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%85"
+    },
+    {
+      "unicode" : "1f386",
+      "emoji" : "🎆",
+      "description" : "FIREWORKS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%86"
+    },
+    {
+      "unicode" : "1f387",
+      "emoji" : "🎇",
+      "description" : "FIREWORK SPARKLER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%87"
+    },
+    {
+      "unicode" : "1f388",
+      "emoji" : "🎈",
+      "description" : "BALLOON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%88"
+    },
+    {
+      "unicode" : "1f389",
+      "emoji" : "🎉",
+      "description" : "PARTY POPPER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%89"
+    },
+    {
+      "unicode" : "1f38a",
+      "emoji" : "🎊",
+      "description" : "CONFETTI BALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%8A"
+    },
+    {
+      "unicode" : "1f38b",
+      "emoji" : "🎋",
+      "description" : "TANABATA TREE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%8B"
+    },
+    {
+      "unicode" : "1f38c",
+      "emoji" : "🎌",
+      "description" : "CROSSED FLAGS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%8C"
+    },
+    {
+      "unicode" : "1f38d",
+      "emoji" : "🎍",
+      "description" : "PINE DECORATION",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%8D"
+    },
+    {
+      "unicode" : "1f38e",
+      "emoji" : "🎎",
+      "description" : "JAPANESE DOLLS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f390",
+      "emoji" : "🎐",
+      "description" : "WIND CHIME",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%90"
+    },
+    {
+      "unicode" : "1f391",
+      "emoji" : "🎑",
+      "description" : "MOON VIEWING CEREMONY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%91"
+    },
+    {
+      "unicode" : "1f392",
+      "emoji" : "🎒",
+      "description" : "SCHOOL SATCHEL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%92"
+    },
+    {
+      "unicode" : "1f393",
+      "emoji" : "🎓",
+      "description" : "GRADUATION CAP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%93"
+    },
+    {
+      "unicode" : "1f396",
+      "emoji" : "🎖️",
+      "description" : "MILITARY MEDAL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%96"
+    },
+    {
+      "unicode" : "1f397",
+      "emoji" : "🎗️",
+      "description" : "REMINDER RIBBON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%97"
+    },
+    {
+      "unicode" : "1f399",
+      "emoji" : "🎙️",
+      "description" : "STUDIO MICROPHONE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%99"
+    },
+    {
+      "unicode" : "1f39a",
+      "emoji" : "🎚️",
+      "description" : "LEVEL SLIDER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%9A"
+    },
+    {
+      "unicode" : "1f39b",
+      "emoji" : "🎛️",
+      "description" : "CONTROL KNOBS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%9B"
+    },
+    {
+      "unicode" : "1f39e",
+      "emoji" : "🎞️",
+      "description" : "FILM FRAMES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f3a0",
+      "emoji" : "🎠",
+      "description" : "CAROUSEL HORSE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%A0"
+    },
+    {
+      "unicode" : "1f3a1",
+      "emoji" : "🎡",
+      "description" : "FERRIS WHEEL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%A1"
+    },
+    {
+      "unicode" : "1f3a2",
+      "emoji" : "🎢",
+      "description" : "ROLLER COASTER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%A2"
+    },
+    {
+      "unicode" : "1f3a3",
+      "emoji" : "🎣",
+      "description" : "FISHING POLE AND FISH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%A3"
+    },
+    {
+      "unicode" : "1f3a4",
+      "emoji" : "🎤",
+      "description" : "MICROPHONE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%A4"
+    },
+    {
+      "unicode" : "1f3a5",
+      "emoji" : "🎥",
+      "description" : "MOVIE CAMERA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%A5"
+    },
+    {
+      "unicode" : "1f3a6",
+      "emoji" : "🎦",
+      "description" : "CINEMA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%A6"
+    },
+    {
+      "unicode" : "1f3a7",
+      "emoji" : "🎧",
+      "description" : "HEADPHONE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%A7"
+    },
+    {
+      "unicode" : "1f3a8",
+      "emoji" : "🎨",
+      "description" : "ARTIST PALETTE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%A8"
+    },
+    {
+      "unicode" : "1f3a9",
+      "emoji" : "🎩",
+      "description" : "TOP HAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%A9"
+    },
+    {
+      "unicode" : "1f3aa",
+      "emoji" : "🎪",
+      "description" : "CIRCUS TENT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%AA"
+    },
+    {
+      "unicode" : "1f3ab",
+      "emoji" : "🎫",
+      "description" : "TICKET",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%AB"
+    },
+    {
+      "unicode" : "1f3ac",
+      "emoji" : "🎬",
+      "description" : "CLAPPER BOARD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%AC"
+    },
+    {
+      "unicode" : "1f3ad",
+      "emoji" : "🎭",
+      "description" : "PERFORMING ARTS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%AD"
+    },
+    {
+      "unicode" : "1f3ae",
+      "emoji" : "🎮",
+      "description" : "VIDEO GAME",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f3b0",
+      "emoji" : "🎰",
+      "description" : "SLOT MACHINE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%B0"
+    },
+    {
+      "unicode" : "1f3b1",
+      "emoji" : "🎱",
+      "description" : "BILLIARDS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%B1"
+    },
+    {
+      "unicode" : "1f3b2",
+      "emoji" : "🎲",
+      "description" : "GAME DIE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%B2"
+    },
+    {
+      "unicode" : "1f3b3",
+      "emoji" : "🎳",
+      "description" : "BOWLING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%B3"
+    },
+    {
+      "unicode" : "1f3b4",
+      "emoji" : "🎴",
+      "description" : "FLOWER PLAYING CARDS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%B4"
+    },
+    {
+      "unicode" : "1f3b5",
+      "emoji" : "🎵",
+      "description" : "MUSICAL NOTE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%B5"
+    },
+    {
+      "unicode" : "1f3b6",
+      "emoji" : "🎶",
+      "description" : "MULTIPLE MUSICAL NOTES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%B6"
+    },
+    {
+      "unicode" : "1f3b7",
+      "emoji" : "🎷",
+      "description" : "SAXOPHONE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%B7"
+    },
+    {
+      "unicode" : "1f3b8",
+      "emoji" : "🎸",
+      "description" : "GUITAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%B8"
+    },
+    {
+      "unicode" : "1f3b9",
+      "emoji" : "🎹",
+      "description" : "MUSICAL KEYBOARD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%B9"
+    },
+    {
+      "unicode" : "1f3ba",
+      "emoji" : "🎺",
+      "description" : "TRUMPET",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%BA"
+    },
+    {
+      "unicode" : "1f3bb",
+      "emoji" : "🎻",
+      "description" : "VIOLIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%BB"
+    },
+    {
+      "unicode" : "1f3bc",
+      "emoji" : "🎼",
+      "description" : "MUSICAL SCORE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%BC"
+    },
+    {
+      "unicode" : "1f3bd",
+      "emoji" : "🎽",
+      "description" : "RUNNING SHIRT WITH SASH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%BD"
+    },
+    {
+      "unicode" : "1f3be",
+      "emoji" : "🎾",
+      "description" : "TENNIS RACQUET AND BALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8E%BE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f3c0",
+      "emoji" : "🏀",
+      "description" : "BASKETBALL AND HOOP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%80"
+    },
+    {
+      "unicode" : "1f3c1",
+      "emoji" : "🏁",
+      "description" : "CHEQUERED FLAG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%81"
+    },
+    {
+      "unicode" : "1f3c2",
+      "emoji" : "🏂",
+      "description" : "SNOWBOARDER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%82"
+    },
+    {
+      "unicode" : "1f3c3",
+      "emoji" : "🏃",
+      "description" : "RUNNER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%83"
+    },
+    {
+      "unicode" : "1f3c4",
+      "emoji" : "🏄",
+      "description" : "SURFER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%84"
+    },
+    {
+      "unicode" : "1f3c5",
+      "emoji" : "🏅",
+      "description" : "SPORTS MEDAL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%85"
+    },
+    {
+      "unicode" : "1f3c6",
+      "emoji" : "🏆",
+      "description" : "TROPHY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%86"
+    },
+    {
+      "unicode" : "1f3c7",
+      "emoji" : "🏇",
+      "description" : "HORSE RACING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%87"
+    },
+    {
+      "unicode" : "1f3c8",
+      "emoji" : "🏈",
+      "description" : "AMERICAN FOOTBALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%88"
+    },
+    {
+      "unicode" : "1f3c9",
+      "emoji" : "🏉",
+      "description" : "RUGBY FOOTBALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%89"
+    },
+    {
+      "unicode" : "1f3ca",
+      "emoji" : "🏊",
+      "description" : "SWIMMER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%8A"
+    },
+    {
+      "unicode" : "1f3cb",
+      "emoji" : "🏋️",
+      "description" : "WEIGHT LIFTER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%8B"
+    },
+    {
+      "unicode" : "1f3cc",
+      "emoji" : "🏌️",
+      "description" : "GOLFER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%8C"
+    },
+    {
+      "unicode" : "1f3cd",
+      "emoji" : "🏍️",
+      "description" : "RACING MOTORCYCLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%8D"
+    },
+    {
+      "unicode" : "1f3ce",
+      "emoji" : "🏎️",
+      "description" : "RACING CAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f3d0",
+      "emoji" : "🏐",
+      "description" : "VOLLEYBALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%90"
+    },
+    {
+      "unicode" : "1f3d1",
+      "emoji" : "🏑",
+      "description" : "FIELD HOCKEY STICK AND BALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%91"
+    },
+    {
+      "unicode" : "1f3d2",
+      "emoji" : "🏒",
+      "description" : "ICE HOCKEY STICK AND PUCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%92"
+    },
+    {
+      "unicode" : "1f3d3",
+      "emoji" : "🏓",
+      "description" : "TABLE TENNIS PADDLE AND BALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%93"
+    },
+    {
+      "unicode" : "1f3d4",
+      "emoji" : "🏔️",
+      "description" : "SNOW CAPPED MOUNTAIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%94"
+    },
+    {
+      "unicode" : "1f3d5",
+      "emoji" : "🏕️",
+      "description" : "CAMPING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%95"
+    },
+    {
+      "unicode" : "1f3d6",
+      "emoji" : "🏖️",
+      "description" : "BEACH WITH UMBRELLA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%96"
+    },
+    {
+      "unicode" : "1f3d7",
+      "emoji" : "🏗️",
+      "description" : "BUILDING CONSTRUCTION",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%97"
+    },
+    {
+      "unicode" : "1f3d8",
+      "emoji" : "🏘️",
+      "description" : "HOUSE BUILDINGS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%98"
+    },
+    {
+      "unicode" : "1f3d9",
+      "emoji" : "🏙️",
+      "description" : "CITYSCAPE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%99"
+    },
+    {
+      "unicode" : "1f3da",
+      "emoji" : "🏚️",
+      "description" : "DERELICT HOUSE BUILDING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%9A"
+    },
+    {
+      "unicode" : "1f3db",
+      "emoji" : "🏛️",
+      "description" : "CLASSICAL BUILDING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%9B"
+    },
+    {
+      "unicode" : "1f3dc",
+      "emoji" : "🏜️",
+      "description" : "DESERT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%9C"
+    },
+    {
+      "unicode" : "1f3dd",
+      "emoji" : "🏝️",
+      "description" : "DESERT ISLAND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%9D"
+    },
+    {
+      "unicode" : "1f3de",
+      "emoji" : "🏞️",
+      "description" : "NATIONAL PARK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f3e0",
+      "emoji" : "🏠",
+      "description" : "HOUSE BUILDING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%A0"
+    },
+    {
+      "unicode" : "1f3e1",
+      "emoji" : "🏡",
+      "description" : "HOUSE WITH GARDEN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%A1"
+    },
+    {
+      "unicode" : "1f3e2",
+      "emoji" : "🏢",
+      "description" : "OFFICE BUILDING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%A2"
+    },
+    {
+      "unicode" : "1f3e3",
+      "emoji" : "🏣",
+      "description" : "JAPANESE POST OFFICE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%E3%80%92"
+    },
+    {
+      "unicode" : "1f3e4",
+      "emoji" : "🏤",
+      "description" : "EUROPEAN POST OFFICE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%A4"
+    },
+    {
+      "unicode" : "1f3e5",
+      "emoji" : "🏥",
+      "description" : "HOSPITAL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%A5"
+    },
+    {
+      "unicode" : "1f3e6",
+      "emoji" : "🏦",
+      "description" : "BANK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%A6"
+    },
+    {
+      "unicode" : "1f3e7",
+      "emoji" : "🏧",
+      "description" : "AUTOMATED TELLER MACHINE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%A7"
+    },
+    {
+      "unicode" : "1f3e8",
+      "emoji" : "🏨",
+      "description" : "HOTEL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%A8"
+    },
+    {
+      "unicode" : "1f3e9",
+      "emoji" : "🏩",
+      "description" : "LOVE HOTEL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%A9"
+    },
+    {
+      "unicode" : "1f3ea",
+      "emoji" : "🏪",
+      "description" : "CONVENIENCE STORE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%AA"
+    },
+    {
+      "unicode" : "1f3eb",
+      "emoji" : "🏫",
+      "description" : "SCHOOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%AB"
+    },
+    {
+      "unicode" : "1f3ec",
+      "emoji" : "🏬",
+      "description" : "DEPARTMENT STORE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%AC"
+    },
+    {
+      "unicode" : "1f3ed",
+      "emoji" : "🏭",
+      "description" : "FACTORY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%AD"
+    },
+    {
+      "unicode" : "1f3ee",
+      "emoji" : "🏮",
+      "description" : "IZAKAYA LANTERN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f3f0",
+      "emoji" : "🏰",
+      "description" : "EUROPEAN CASTLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%B0"
+    },
+    {
+      "unicode" : "1f3f3",
+      "emoji" : "🏳️",
+      "description" : "WAVING WHITE FLAG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%B3"
+    },
+    {
+      "unicode" : "1f3f4",
+      "emoji" : "🏴",
+      "description" : "WAVING BLACK FLAG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%B4"
+    },
+    {
+      "unicode" : "1f3f5",
+      "emoji" : "🏵️",
+      "description" : "ROSETTE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%B5"
+    },
+    {
+      "unicode" : "1f3f7",
+      "emoji" : "🏷️",
+      "description" : "LABEL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%B7"
+    },
+    {
+      "unicode" : "1f3f8",
+      "emoji" : "🏸",
+      "description" : "BADMINTON RACQUET AND SHUTTLECOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%B8"
+    },
+    {
+      "unicode" : "1f3f9",
+      "emoji" : "🏹",
+      "description" : "BOW AND ARROW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%B9"
+    },
+    {
+      "unicode" : "1f3fa",
+      "emoji" : "🏺",
+      "description" : "AMPHORA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%BA"
+    },
+    {
+      "unicode" : "1f3fb",
+      "emoji" : "🏻",
+      "description" : "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%BB"
+    },
+    {
+      "unicode" : "1f3fc",
+      "emoji" : "🏼",
+      "description" : "EMOJI MODIFIER FITZPATRICK TYPE-3",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%BC"
+    },
+    {
+      "unicode" : "1f3fd",
+      "emoji" : "🏽",
+      "description" : "EMOJI MODIFIER FITZPATRICK TYPE-4",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%BD"
+    },
+    {
+      "unicode" : "1f3fe",
+      "emoji" : "🏾",
+      "description" : "EMOJI MODIFIER FITZPATRICK TYPE-5",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%8F%BE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f400",
+      "emoji" : "🐀",
+      "description" : "RAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%80"
+    },
+    {
+      "unicode" : "1f401",
+      "emoji" : "🐁",
+      "description" : "MOUSE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%81"
+    },
+    {
+      "unicode" : "1f402",
+      "emoji" : "🐂",
+      "description" : "OX",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%82"
+    },
+    {
+      "unicode" : "1f403",
+      "emoji" : "🐃",
+      "description" : "WATER BUFFALO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%83"
+    },
+    {
+      "unicode" : "1f404",
+      "emoji" : "🐄",
+      "description" : "COW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%84"
+    },
+    {
+      "unicode" : "1f405",
+      "emoji" : "🐅",
+      "description" : "TIGER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%85"
+    },
+    {
+      "unicode" : "1f406",
+      "emoji" : "🐆",
+      "description" : "LEOPARD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%86"
+    },
+    {
+      "unicode" : "1f407",
+      "emoji" : "🐇",
+      "description" : "RABBIT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%87"
+    },
+    {
+      "unicode" : "1f408",
+      "emoji" : "🐈",
+      "description" : "CAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%88"
+    },
+    {
+      "unicode" : "1f409",
+      "emoji" : "🐉",
+      "description" : "DRAGON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%89"
+    },
+    {
+      "unicode" : "1f40a",
+      "emoji" : "🐊",
+      "description" : "CROCODILE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%8A"
+    },
+    {
+      "unicode" : "1f40b",
+      "emoji" : "🐋",
+      "description" : "WHALE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%8B"
+    },
+    {
+      "unicode" : "1f40c",
+      "emoji" : "🐌",
+      "description" : "SNAIL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%8C"
+    },
+    {
+      "unicode" : "1f40d",
+      "emoji" : "🐍",
+      "description" : "SNAKE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%8D"
+    },
+    {
+      "unicode" : "1f40e",
+      "emoji" : "🐎",
+      "description" : "HORSE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f410",
+      "emoji" : "🐐",
+      "description" : "GOAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%90"
+    },
+    {
+      "unicode" : "1f411",
+      "emoji" : "🐑",
+      "description" : "SHEEP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%91"
+    },
+    {
+      "unicode" : "1f412",
+      "emoji" : "🐒",
+      "description" : "MONKEY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%92"
+    },
+    {
+      "unicode" : "1f413",
+      "emoji" : "🐓",
+      "description" : "ROOSTER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%93"
+    },
+    {
+      "unicode" : "1f414",
+      "emoji" : "🐔",
+      "description" : "CHICKEN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%94"
+    },
+    {
+      "unicode" : "1f415",
+      "emoji" : "🐕",
+      "description" : "DOG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%95"
+    },
+    {
+      "unicode" : "1f416",
+      "emoji" : "🐖",
+      "description" : "PIG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%96"
+    },
+    {
+      "unicode" : "1f417",
+      "emoji" : "🐗",
+      "description" : "BOAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%97"
+    },
+    {
+      "unicode" : "1f418",
+      "emoji" : "🐘",
+      "description" : "ELEPHANT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%98"
+    },
+    {
+      "unicode" : "1f419",
+      "emoji" : "🐙",
+      "description" : "OCTOPUS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%99"
+    },
+    {
+      "unicode" : "1f41a",
+      "emoji" : "🐚",
+      "description" : "SPIRAL SHELL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%9A"
+    },
+    {
+      "unicode" : "1f41b",
+      "emoji" : "🐛",
+      "description" : "BUG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%9B"
+    },
+    {
+      "unicode" : "1f41c",
+      "emoji" : "🐜",
+      "description" : "ANT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%9C"
+    },
+    {
+      "unicode" : "1f41d",
+      "emoji" : "🐝",
+      "description" : "HONEYBEE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%9D"
+    },
+    {
+      "unicode" : "1f41e",
+      "emoji" : "🐞",
+      "description" : "LADY BEETLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f420",
+      "emoji" : "🐠",
+      "description" : "TROPICAL FISH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%A0"
+    },
+    {
+      "unicode" : "1f421",
+      "emoji" : "🐡",
+      "description" : "BLOWFISH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%A1"
+    },
+    {
+      "unicode" : "1f422",
+      "emoji" : "🐢",
+      "description" : "TURTLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%A2"
+    },
+    {
+      "unicode" : "1f423",
+      "emoji" : "🐣",
+      "description" : "HATCHING CHICK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%A3"
+    },
+    {
+      "unicode" : "1f424",
+      "emoji" : "🐤",
+      "description" : "BABY CHICK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%A4"
+    },
+    {
+      "unicode" : "1f425",
+      "emoji" : "🐥",
+      "description" : "FRONT-FACING BABY CHICK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%A5"
+    },
+    {
+      "unicode" : "1f426",
+      "emoji" : "🐦",
+      "description" : "BIRD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%A6"
+    },
+    {
+      "unicode" : "1f427",
+      "emoji" : "🐧",
+      "description" : "PENGUIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%A7"
+    },
+    {
+      "unicode" : "1f428",
+      "emoji" : "🐨",
+      "description" : "KOALA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%A8"
+    },
+    {
+      "unicode" : "1f429",
+      "emoji" : "🐩",
+      "description" : "POODLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%A9"
+    },
+    {
+      "unicode" : "1f42a",
+      "emoji" : "🐪",
+      "description" : "DROMEDARY CAMEL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%AA"
+    },
+    {
+      "unicode" : "1f42b",
+      "emoji" : "🐫",
+      "description" : "BACTRIAN CAMEL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%AB"
+    },
+    {
+      "unicode" : "1f42c",
+      "emoji" : "🐬",
+      "description" : "DOLPHIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%AC"
+    },
+    {
+      "unicode" : "1f42d",
+      "emoji" : "🐭",
+      "description" : "MOUSE FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%AD"
+    },
+    {
+      "unicode" : "1f42e",
+      "emoji" : "🐮",
+      "description" : "COW FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f430",
+      "emoji" : "🐰",
+      "description" : "RABBIT FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%B0"
+    },
+    {
+      "unicode" : "1f431",
+      "emoji" : "🐱",
+      "description" : "CAT FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%B1"
+    },
+    {
+      "unicode" : "1f432",
+      "emoji" : "🐲",
+      "description" : "DRAGON FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%B2"
+    },
+    {
+      "unicode" : "1f433",
+      "emoji" : "🐳",
+      "description" : "SPOUTING WHALE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%B3"
+    },
+    {
+      "unicode" : "1f434",
+      "emoji" : "🐴",
+      "description" : "HORSE FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%B4"
+    },
+    {
+      "unicode" : "1f435",
+      "emoji" : "🐵",
+      "description" : "MONKEY FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%B5"
+    },
+    {
+      "unicode" : "1f436",
+      "emoji" : "🐶",
+      "description" : "DOG FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%B6"
+    },
+    {
+      "unicode" : "1f437",
+      "emoji" : "🐷",
+      "description" : "PIG FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%B7"
+    },
+    {
+      "unicode" : "1f438",
+      "emoji" : "🐸",
+      "description" : "FROG FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%B8"
+    },
+    {
+      "unicode" : "1f439",
+      "emoji" : "🐹",
+      "description" : "HAMSTER FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%B9"
+    },
+    {
+      "unicode" : "1f43a",
+      "emoji" : "🐺",
+      "description" : "WOLF FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%BA"
+    },
+    {
+      "unicode" : "1f43b",
+      "emoji" : "🐻",
+      "description" : "BEAR FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%BB"
+    },
+    {
+      "unicode" : "1f43c",
+      "emoji" : "🐼",
+      "description" : "PANDA FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%BC"
+    },
+    {
+      "unicode" : "1f43d",
+      "emoji" : "🐽",
+      "description" : "PIG NOSE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%BD"
+    },
+    {
+      "unicode" : "1f43e",
+      "emoji" : "🐾",
+      "description" : "PAW PRINTS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%90%BE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f440",
+      "emoji" : "👀",
+      "description" : "EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%80"
+    },
+    {
+      "unicode" : "1f441",
+      "emoji" : "👁️",
+      "description" : "EYE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%81"
+    },
+    {
+      "unicode" : "1f442",
+      "emoji" : "👂",
+      "description" : "EAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%82"
+    },
+    {
+      "unicode" : "1f443",
+      "emoji" : "👃",
+      "description" : "NOSE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%83"
+    },
+    {
+      "unicode" : "1f444",
+      "emoji" : "👄",
+      "description" : "MOUTH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%84"
+    },
+    {
+      "unicode" : "1f445",
+      "emoji" : "👅",
+      "description" : "TONGUE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%85"
+    },
+    {
+      "unicode" : "1f446",
+      "emoji" : "👆",
+      "description" : "WHITE UP POINTING BACKHAND INDEX",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%86"
+    },
+    {
+      "unicode" : "1f447",
+      "emoji" : "👇",
+      "description" : "WHITE DOWN POINTING BACKHAND INDEX",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%87"
+    },
+    {
+      "unicode" : "1f448",
+      "emoji" : "👈",
+      "description" : "WHITE LEFT POINTING BACKHAND INDEX",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%88"
+    },
+    {
+      "unicode" : "1f449",
+      "emoji" : "👉",
+      "description" : "WHITE RIGHT POINTING BACKHAND INDEX",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%89"
+    },
+    {
+      "unicode" : "1f44a",
+      "emoji" : "👊",
+      "description" : "FISTED HAND SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Fist_(hand)"
+    },
+    {
+      "unicode" : "1f44b",
+      "emoji" : "👋",
+      "description" : "WAVING HAND SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%8B"
+    },
+    {
+      "unicode" : "1f44c",
+      "emoji" : "👌",
+      "description" : "OK HAND SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%8C"
+    },
+    {
+      "unicode" : "1f44d",
+      "emoji" : "👍",
+      "description" : "THUMBS UP SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%8D"
+    },
+    {
+      "unicode" : "1f44e",
+      "emoji" : "👎",
+      "description" : "THUMBS DOWN SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f450",
+      "emoji" : "👐",
+      "description" : "OPEN HANDS SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%90"
+    },
+    {
+      "unicode" : "1f451",
+      "emoji" : "👑",
+      "description" : "CROWN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%91"
+    },
+    {
+      "unicode" : "1f452",
+      "emoji" : "👒",
+      "description" : "WOMANS HAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%92"
+    },
+    {
+      "unicode" : "1f453",
+      "emoji" : "👓",
+      "description" : "EYEGLASSES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%93"
+    },
+    {
+      "unicode" : "1f454",
+      "emoji" : "👔",
+      "description" : "NECKTIE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%94"
+    },
+    {
+      "unicode" : "1f455",
+      "emoji" : "👕",
+      "description" : "T-SHIRT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%95"
+    },
+    {
+      "unicode" : "1f456",
+      "emoji" : "👖",
+      "description" : "JEANS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%96"
+    },
+    {
+      "unicode" : "1f457",
+      "emoji" : "👗",
+      "description" : "DRESS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%97"
+    },
+    {
+      "unicode" : "1f458",
+      "emoji" : "👘",
+      "description" : "KIMONO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%98"
+    },
+    {
+      "unicode" : "1f459",
+      "emoji" : "👙",
+      "description" : "BIKINI",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%99"
+    },
+    {
+      "unicode" : "1f45a",
+      "emoji" : "👚",
+      "description" : "WOMANS CLOTHES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%9A"
+    },
+    {
+      "unicode" : "1f45b",
+      "emoji" : "👛",
+      "description" : "PURSE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%9B"
+    },
+    {
+      "unicode" : "1f45c",
+      "emoji" : "👜",
+      "description" : "HANDBAG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%9C"
+    },
+    {
+      "unicode" : "1f45d",
+      "emoji" : "👝",
+      "description" : "POUCH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Pouch_(disambiguation)"
+    },
+    {
+      "unicode" : "1f45e",
+      "emoji" : "👞",
+      "description" : "MANS SHOE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f460",
+      "emoji" : "👠",
+      "description" : "HIGH-HEELED SHOE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%A0"
+    },
+    {
+      "unicode" : "1f461",
+      "emoji" : "👡",
+      "description" : "WOMANS SANDAL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%A1"
+    },
+    {
+      "unicode" : "1f462",
+      "emoji" : "👢",
+      "description" : "WOMANS BOOTS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%A2"
+    },
+    {
+      "unicode" : "1f463",
+      "emoji" : "👣",
+      "description" : "FOOTPRINTS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%A3"
+    },
+    {
+      "unicode" : "1f464",
+      "emoji" : "👤",
+      "description" : "BUST IN SILHOUETTE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%A4"
+    },
+    {
+      "unicode" : "1f465",
+      "emoji" : "👥",
+      "description" : "BUSTS IN SILHOUETTE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%A5"
+    },
+    {
+      "unicode" : "1f466",
+      "emoji" : "👦",
+      "description" : "BOY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%A6"
+    },
+    {
+      "unicode" : "1f467",
+      "emoji" : "👧",
+      "description" : "GIRL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%A7"
+    },
+    {
+      "unicode" : "1f468",
+      "emoji" : "👨",
+      "description" : "MAN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%A8"
+    },
+    {
+      "unicode" : "1f469",
+      "emoji" : "👩",
+      "description" : "WOMAN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%A9"
+    },
+    {
+      "unicode" : "1f46a",
+      "emoji" : "👪",
+      "description" : "FAMILY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%AA"
+    },
+    {
+      "unicode" : "1f46b",
+      "emoji" : "👫",
+      "description" : "MAN AND WOMAN HOLDING HANDS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%AB"
+    },
+    {
+      "unicode" : "1f46c",
+      "emoji" : "👬",
+      "description" : "TWO MEN HOLDING HANDS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%AC"
+    },
+    {
+      "unicode" : "1f46d",
+      "emoji" : "👭",
+      "description" : "TWO WOMEN HOLDING HANDS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%AD"
+    },
+    {
+      "unicode" : "1f46e",
+      "emoji" : "👮",
+      "description" : "POLICE OFFICER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f470",
+      "emoji" : "👰",
+      "description" : "BRIDE WITH VEIL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%B0"
+    },
+    {
+      "unicode" : "1f471",
+      "emoji" : "👱",
+      "description" : "PERSON WITH BLOND HAIR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%B1"
+    },
+    {
+      "unicode" : "1f472",
+      "emoji" : "👲",
+      "description" : "MAN WITH GUA PI MAO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%B2"
+    },
+    {
+      "unicode" : "1f473",
+      "emoji" : "👳",
+      "description" : "MAN WITH TURBAN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%B3"
+    },
+    {
+      "unicode" : "1f474",
+      "emoji" : "👴",
+      "description" : "OLDER MAN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%B4"
+    },
+    {
+      "unicode" : "1f475",
+      "emoji" : "👵",
+      "description" : "OLDER WOMAN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%B5"
+    },
+    {
+      "unicode" : "1f476",
+      "emoji" : "👶",
+      "description" : "BABY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%B6"
+    },
+    {
+      "unicode" : "1f477",
+      "emoji" : "👷",
+      "description" : "CONSTRUCTION WORKER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%B7"
+    },
+    {
+      "unicode" : "1f478",
+      "emoji" : "👸",
+      "description" : "PRINCESS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%B8"
+    },
+    {
+      "unicode" : "1f479",
+      "emoji" : "👹",
+      "description" : "JAPANESE OGRE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%B9"
+    },
+    {
+      "unicode" : "1f47a",
+      "emoji" : "👺",
+      "description" : "JAPANESE GOBLIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%BA"
+    },
+    {
+      "unicode" : "1f47b",
+      "emoji" : "👻",
+      "description" : "GHOST",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%BB"
+    },
+    {
+      "unicode" : "1f47c",
+      "emoji" : "👼",
+      "description" : "BABY ANGEL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%BC"
+    },
+    {
+      "unicode" : "1f47d",
+      "emoji" : "👽",
+      "description" : "EXTRATERRESTRIAL ALIEN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%91%BD"
+    },
+    {
+      "unicode" : "1f47e",
+      "emoji" : "👾",
+      "description" : "ALIEN MONSTER",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%91%BE&amp;action=edit&amp;redlink=1"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f480",
+      "emoji" : "💀",
+      "description" : "SKULL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%80"
+    },
+    {
+      "unicode" : "1f481",
+      "emoji" : "💁",
+      "description" : "INFORMATION DESK PERSON",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%92%81&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f482",
+      "emoji" : "💂",
+      "description" : "GUARDSMAN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%82"
+    },
+    {
+      "unicode" : "1f483",
+      "emoji" : "💃",
+      "description" : "DANCER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%83"
+    },
+    {
+      "unicode" : "1f484",
+      "emoji" : "💄",
+      "description" : "LIPSTICK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%84"
+    },
+    {
+      "unicode" : "1f485",
+      "emoji" : "💅",
+      "description" : "NAIL POLISH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%85"
+    },
+    {
+      "unicode" : "1f486",
+      "emoji" : "💆",
+      "description" : "FACE MASSAGE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%86"
+    },
+    {
+      "unicode" : "1f487",
+      "emoji" : "💇",
+      "description" : "HAIRCUT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%87"
+    },
+    {
+      "unicode" : "1f488",
+      "emoji" : "💈",
+      "description" : "BARBER POLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%88"
+    },
+    {
+      "unicode" : "1f489",
+      "emoji" : "💉",
+      "description" : "SYRINGE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%89"
+    },
+    {
+      "unicode" : "1f48a",
+      "emoji" : "💊",
+      "description" : "PILL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%8A"
+    },
+    {
+      "unicode" : "1f48b",
+      "emoji" : "💋",
+      "description" : "KISS MARK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%8B"
+    },
+    {
+      "unicode" : "1f48c",
+      "emoji" : "💌",
+      "description" : "LOVE LETTER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%8C"
+    },
+    {
+      "unicode" : "1f48d",
+      "emoji" : "💍",
+      "description" : "RING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%8D"
+    },
+    {
+      "unicode" : "1f48e",
+      "emoji" : "💎",
+      "description" : "GEM STONE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f490",
+      "emoji" : "💐",
+      "description" : "BOUQUET",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%90"
+    },
+    {
+      "unicode" : "1f491",
+      "emoji" : "💑",
+      "description" : "COUPLE WITH HEART",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%91"
+    },
+    {
+      "unicode" : "1f492",
+      "emoji" : "💒",
+      "description" : "WEDDING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%92"
+    },
+    {
+      "unicode" : "1f493",
+      "emoji" : "💓",
+      "description" : "BEATING HEART",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%93"
+    },
+    {
+      "unicode" : "1f494",
+      "emoji" : "💔",
+      "description" : "BROKEN HEART",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%94"
+    },
+    {
+      "unicode" : "1f495",
+      "emoji" : "💕",
+      "description" : "TWO HEARTS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%95"
+    },
+    {
+      "unicode" : "1f496",
+      "emoji" : "💖",
+      "description" : "SPARKLING HEART",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%96"
+    },
+    {
+      "unicode" : "1f497",
+      "emoji" : "💗",
+      "description" : "GROWING HEART",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%97"
+    },
+    {
+      "unicode" : "1f498",
+      "emoji" : "💘",
+      "description" : "HEART WITH ARROW",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%98"
+    },
+    {
+      "unicode" : "1f499",
+      "emoji" : "💙",
+      "description" : "BLUE HEART",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%99"
+    },
+    {
+      "unicode" : "1f49a",
+      "emoji" : "💚",
+      "description" : "GREEN HEART",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%9A"
+    },
+    {
+      "unicode" : "1f49b",
+      "emoji" : "💛",
+      "description" : "YELLOW HEART",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%9B"
+    },
+    {
+      "unicode" : "1f49c",
+      "emoji" : "💜",
+      "description" : "PURPLE HEART",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%9C"
+    },
+    {
+      "unicode" : "1f49d",
+      "emoji" : "💝",
+      "description" : "HEART WITH RIBBON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%9D"
+    },
+    {
+      "unicode" : "1f49e",
+      "emoji" : "💞",
+      "description" : "REVOLVING HEARTS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f4a0",
+      "emoji" : "💠",
+      "description" : "DIAMOND SHAPE WITH A DOT INSIDE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%A0"
+    },
+    {
+      "unicode" : "1f4a1",
+      "emoji" : "💡",
+      "description" : "ELECTRIC LIGHT BULB",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%A1"
+    },
+    {
+      "unicode" : "1f4a2",
+      "emoji" : "💢",
+      "description" : "ANGER SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%A2"
+    },
+    {
+      "unicode" : "1f4a3",
+      "emoji" : "💣",
+      "description" : "BOMB",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%A3"
+    },
+    {
+      "unicode" : "1f4a4",
+      "emoji" : "💤",
+      "description" : "SLEEPING SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%A4"
+    },
+    {
+      "unicode" : "1f4a5",
+      "emoji" : "💥",
+      "description" : "COLLISION SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%A5"
+    },
+    {
+      "unicode" : "1f4a6",
+      "emoji" : "💦",
+      "description" : "SPLASHING SWEAT SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%A6"
+    },
+    {
+      "unicode" : "1f4a7",
+      "emoji" : "💧",
+      "description" : "DROPLET",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%A7"
+    },
+    {
+      "unicode" : "1f4a8",
+      "emoji" : "💨",
+      "description" : "DASH SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%A8"
+    },
+    {
+      "unicode" : "1f4a9",
+      "emoji" : "💩",
+      "description" : "PILE OF POO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%A9"
+    },
+    {
+      "unicode" : "1f4aa",
+      "emoji" : "💪",
+      "description" : "FLEXED BICEPS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%AA"
+    },
+    {
+      "unicode" : "1f4ab",
+      "emoji" : "💫",
+      "description" : "DIZZY SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%AB"
+    },
+    {
+      "unicode" : "1f4ac",
+      "emoji" : "💬",
+      "description" : "SPEECH BALLOON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%AC"
+    },
+    {
+      "unicode" : "1f4ad",
+      "emoji" : "💭",
+      "description" : "THOUGHT BALLOON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%AD"
+    },
+    {
+      "unicode" : "1f4ae",
+      "emoji" : "💮",
+      "description" : "WHITE FLOWER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f4b0",
+      "emoji" : "💰",
+      "description" : "MONEY BAG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%B0"
+    },
+    {
+      "unicode" : "1f4b1",
+      "emoji" : "💱",
+      "description" : "CURRENCY EXCHANGE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%B1"
+    },
+    {
+      "unicode" : "1f4b2",
+      "emoji" : "💲",
+      "description" : "HEAVY DOLLAR SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%B2"
+    },
+    {
+      "unicode" : "1f4b3",
+      "emoji" : "💳",
+      "description" : "CREDIT CARD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%B3"
+    },
+    {
+      "unicode" : "1f4b4",
+      "emoji" : "💴",
+      "description" : "BANKNOTE WITH YEN SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%B4"
+    },
+    {
+      "unicode" : "1f4b5",
+      "emoji" : "💵",
+      "description" : "BANKNOTE WITH DOLLAR SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%B5"
+    },
+    {
+      "unicode" : "1f4b6",
+      "emoji" : "💶",
+      "description" : "BANKNOTE WITH EURO SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%B6"
+    },
+    {
+      "unicode" : "1f4b7",
+      "emoji" : "💷",
+      "description" : "BANKNOTE WITH POUND SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%B7"
+    },
+    {
+      "unicode" : "1f4b8",
+      "emoji" : "💸",
+      "description" : "MONEY WITH WINGS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%B8"
+    },
+    {
+      "unicode" : "1f4b9",
+      "emoji" : "💹",
+      "description" : "CHART WITH UPWARDS TREND AND YEN SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%B9"
+    },
+    {
+      "unicode" : "1f4ba",
+      "emoji" : "💺",
+      "description" : "SEAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%BA"
+    },
+    {
+      "unicode" : "1f4bb",
+      "emoji" : "💻",
+      "description" : "PERSONAL COMPUTER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%BB"
+    },
+    {
+      "unicode" : "1f4bc",
+      "emoji" : "💼",
+      "description" : "BRIEFCASE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%BC"
+    },
+    {
+      "unicode" : "1f4bd",
+      "emoji" : "💽",
+      "description" : "MINIDISC",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%BD"
+    },
+    {
+      "unicode" : "1f4be",
+      "emoji" : "💾",
+      "description" : "FLOPPY DISK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%92%BE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f4c0",
+      "emoji" : "📀",
+      "description" : "DVD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%80"
+    },
+    {
+      "unicode" : "1f4c1",
+      "emoji" : "📁",
+      "description" : "FILE FOLDER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%81"
+    },
+    {
+      "unicode" : "1f4c2",
+      "emoji" : "📂",
+      "description" : "OPEN FILE FOLDER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%82"
+    },
+    {
+      "unicode" : "1f4c3",
+      "emoji" : "📃",
+      "description" : "PAGE WITH CURL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%83"
+    },
+    {
+      "unicode" : "1f4c4",
+      "emoji" : "📄",
+      "description" : "PAGE FACING UP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%84"
+    },
+    {
+      "unicode" : "1f4c5",
+      "emoji" : "📅",
+      "description" : "CALENDAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%85"
+    },
+    {
+      "unicode" : "1f4c6",
+      "emoji" : "📆",
+      "description" : "TEAR-OFF CALENDAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%86"
+    },
+    {
+      "unicode" : "1f4c7",
+      "emoji" : "📇",
+      "description" : "CARD INDEX",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%87"
+    },
+    {
+      "unicode" : "1f4c8",
+      "emoji" : "📈",
+      "description" : "CHART WITH UPWARDS TREND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%88"
+    },
+    {
+      "unicode" : "1f4c9",
+      "emoji" : "📉",
+      "description" : "CHART WITH DOWNWARDS TREND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%89"
+    },
+    {
+      "unicode" : "1f4ca",
+      "emoji" : "📊",
+      "description" : "BAR CHART",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%8A"
+    },
+    {
+      "unicode" : "1f4cb",
+      "emoji" : "📋",
+      "description" : "CLIPBOARD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%8B"
+    },
+    {
+      "unicode" : "1f4cc",
+      "emoji" : "📌",
+      "description" : "PUSHPIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%8C"
+    },
+    {
+      "unicode" : "1f4cd",
+      "emoji" : "📍",
+      "description" : "ROUND PUSHPIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%8D"
+    },
+    {
+      "unicode" : "1f4ce",
+      "emoji" : "📎",
+      "description" : "PAPERCLIP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f4d0",
+      "emoji" : "📐",
+      "description" : "TRIANGULAR RULER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%90"
+    },
+    {
+      "unicode" : "1f4d1",
+      "emoji" : "📑",
+      "description" : "BOOKMARK TABS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%91"
+    },
+    {
+      "unicode" : "1f4d2",
+      "emoji" : "📒",
+      "description" : "LEDGER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%92"
+    },
+    {
+      "unicode" : "1f4d3",
+      "emoji" : "📓",
+      "description" : "NOTEBOOK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%93"
+    },
+    {
+      "unicode" : "1f4d4",
+      "emoji" : "📔",
+      "description" : "NOTEBOOK WITH DECORATIVE COVER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%94"
+    },
+    {
+      "unicode" : "1f4d5",
+      "emoji" : "📕",
+      "description" : "CLOSED BOOK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%95"
+    },
+    {
+      "unicode" : "1f4d6",
+      "emoji" : "📖",
+      "description" : "OPEN BOOK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%96"
+    },
+    {
+      "unicode" : "1f4d7",
+      "emoji" : "📗",
+      "description" : "GREEN BOOK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%97"
+    },
+    {
+      "unicode" : "1f4d8",
+      "emoji" : "📘",
+      "description" : "BLUE BOOK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%98"
+    },
+    {
+      "unicode" : "1f4d9",
+      "emoji" : "📙",
+      "description" : "ORANGE BOOK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%99"
+    },
+    {
+      "unicode" : "1f4da",
+      "emoji" : "📚",
+      "description" : "BOOKS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%9A"
+    },
+    {
+      "unicode" : "1f4db",
+      "emoji" : "📛",
+      "description" : "NAME BADGE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%9B"
+    },
+    {
+      "unicode" : "1f4dc",
+      "emoji" : "📜",
+      "description" : "SCROLL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%9C"
+    },
+    {
+      "unicode" : "1f4dd",
+      "emoji" : "📝",
+      "description" : "MEMO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%9D"
+    },
+    {
+      "unicode" : "1f4de",
+      "emoji" : "📞",
+      "description" : "TELEPHONE RECEIVER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f4e0",
+      "emoji" : "📠",
+      "description" : "FAX MACHINE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%A0"
+    },
+    {
+      "unicode" : "1f4e1",
+      "emoji" : "📡",
+      "description" : "SATELLITE ANTENNA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%A1"
+    },
+    {
+      "unicode" : "1f4e2",
+      "emoji" : "📢",
+      "description" : "PUBLIC ADDRESS LOUDSPEAKER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%A2"
+    },
+    {
+      "unicode" : "1f4e3",
+      "emoji" : "📣",
+      "description" : "CHEERING MEGAPHONE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%A3"
+    },
+    {
+      "unicode" : "1f4e4",
+      "emoji" : "📤",
+      "description" : "OUTBOX TRAY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%A4"
+    },
+    {
+      "unicode" : "1f4e5",
+      "emoji" : "📥",
+      "description" : "INBOX TRAY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%A5"
+    },
+    {
+      "unicode" : "1f4e6",
+      "emoji" : "📦",
+      "description" : "PACKAGE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%A6"
+    },
+    {
+      "unicode" : "1f4e7",
+      "emoji" : "📧",
+      "description" : "E-MAIL SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%A7"
+    },
+    {
+      "unicode" : "1f4e8",
+      "emoji" : "📨",
+      "description" : "INCOMING ENVELOPE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%A8"
+    },
+    {
+      "unicode" : "1f4e9",
+      "emoji" : "📩",
+      "description" : "ENVELOPE WITH DOWNWARDS ARROW ABOVE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%A9"
+    },
+    {
+      "unicode" : "1f4ea",
+      "emoji" : "📪",
+      "description" : "CLOSED MAILBOX WITH LOWERED FLAG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%AA"
+    },
+    {
+      "unicode" : "1f4eb",
+      "emoji" : "📫",
+      "description" : "CLOSED MAILBOX WITH RAISED FLAG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%AB"
+    },
+    {
+      "unicode" : "1f4ec",
+      "emoji" : "📬",
+      "description" : "OPEN MAILBOX WITH RAISED FLAG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%AC"
+    },
+    {
+      "unicode" : "1f4ed",
+      "emoji" : "📭",
+      "description" : "OPEN MAILBOX WITH LOWERED FLAG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%AD"
+    },
+    {
+      "unicode" : "1f4ee",
+      "emoji" : "📮",
+      "description" : "POSTBOX",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f4f0",
+      "emoji" : "📰",
+      "description" : "NEWSPAPER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%B0"
+    },
+    {
+      "unicode" : "1f4f1",
+      "emoji" : "📱",
+      "description" : "MOBILE PHONE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%B1"
+    },
+    {
+      "unicode" : "1f4f2",
+      "emoji" : "📲",
+      "description" : "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%B2"
+    },
+    {
+      "unicode" : "1f4f3",
+      "emoji" : "📳",
+      "description" : "VIBRATION MODE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%B3"
+    },
+    {
+      "unicode" : "1f4f4",
+      "emoji" : "📴",
+      "description" : "MOBILE PHONE OFF",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%B4"
+    },
+    {
+      "unicode" : "1f4f5",
+      "emoji" : "📵",
+      "description" : "NO MOBILE PHONES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%B5"
+    },
+    {
+      "unicode" : "1f4f6",
+      "emoji" : "📶",
+      "description" : "ANTENNA WITH BARS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%B6"
+    },
+    {
+      "unicode" : "1f4f7",
+      "emoji" : "📷",
+      "description" : "CAMERA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%B7"
+    },
+    {
+      "unicode" : "1f4f8",
+      "emoji" : "📸",
+      "description" : "CAMERA WITH FLASH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%B8"
+    },
+    {
+      "unicode" : "1f4f9",
+      "emoji" : "📹",
+      "description" : "VIDEO CAMERA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%B9"
+    },
+    {
+      "unicode" : "1f4fa",
+      "emoji" : "📺",
+      "description" : "TELEVISION",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%BA"
+    },
+    {
+      "unicode" : "1f4fb",
+      "emoji" : "📻",
+      "description" : "RADIO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%BB"
+    },
+    {
+      "unicode" : "1f4fc",
+      "emoji" : "📼",
+      "description" : "VIDEOCASSETTE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%BC"
+    },
+    {
+      "unicode" : "1f4fd",
+      "emoji" : "📽️",
+      "description" : "FILM PROJECTOR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%93%BD"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f500",
+      "emoji" : "🔀",
+      "description" : "TWISTED RIGHTWARDS ARROWS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%80"
+    },
+    {
+      "unicode" : "1f501",
+      "emoji" : "🔁",
+      "description" : "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%81"
+    },
+    {
+      "unicode" : "1f502",
+      "emoji" : "🔂",
+      "description" : "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%82"
+    },
+    {
+      "unicode" : "1f503",
+      "emoji" : "🔃",
+      "description" : "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%83"
+    },
+    {
+      "unicode" : "1f504",
+      "emoji" : "🔄",
+      "description" : "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%84"
+    },
+    {
+      "unicode" : "1f505",
+      "emoji" : "🔅",
+      "description" : "LOW BRIGHTNESS SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%85"
+    },
+    {
+      "unicode" : "1f506",
+      "emoji" : "🔆",
+      "description" : "HIGH BRIGHTNESS SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%86"
+    },
+    {
+      "unicode" : "1f507",
+      "emoji" : "🔇",
+      "description" : "SPEAKER WITH CANCELLATION STROKE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Mute_(disambiguation)"
+    },
+    {
+      "unicode" : "1f508",
+      "emoji" : "🔈",
+      "description" : "SPEAKER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%88"
+    },
+    {
+      "unicode" : "1f509",
+      "emoji" : "🔉",
+      "description" : "SPEAKER WITH ONE SOUND WAVE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%89"
+    },
+    {
+      "unicode" : "1f50a",
+      "emoji" : "🔊",
+      "description" : "SPEAKER WITH THREE SOUND WAVES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%8A"
+    },
+    {
+      "unicode" : "1f50b",
+      "emoji" : "🔋",
+      "description" : "BATTERY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%8B"
+    },
+    {
+      "unicode" : "1f50c",
+      "emoji" : "🔌",
+      "description" : "ELECTRIC PLUG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%8C"
+    },
+    {
+      "unicode" : "1f50d",
+      "emoji" : "🔍",
+      "description" : "LEFT-POINTING MAGNIFYING GLASS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%8D"
+    },
+    {
+      "unicode" : "1f50e",
+      "emoji" : "🔎",
+      "description" : "RIGHT-POINTING MAGNIFYING GLASS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f510",
+      "emoji" : "🔐",
+      "description" : "CLOSED LOCK WITH KEY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%90"
+    },
+    {
+      "unicode" : "1f511",
+      "emoji" : "🔑",
+      "description" : "KEY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%91"
+    },
+    {
+      "unicode" : "1f512",
+      "emoji" : "🔒",
+      "description" : "LOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%92"
+    },
+    {
+      "unicode" : "1f513",
+      "emoji" : "🔓",
+      "description" : "OPEN LOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%93"
+    },
+    {
+      "unicode" : "1f514",
+      "emoji" : "🔔",
+      "description" : "BELL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Bell_character"
+    },
+    {
+      "unicode" : "1f515",
+      "emoji" : "🔕",
+      "description" : "BELL WITH CANCELLATION STROKE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%95"
+    },
+    {
+      "unicode" : "1f516",
+      "emoji" : "🔖",
+      "description" : "BOOKMARK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%96"
+    },
+    {
+      "unicode" : "1f517",
+      "emoji" : "🔗",
+      "description" : "LINK SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%97"
+    },
+    {
+      "unicode" : "1f518",
+      "emoji" : "🔘",
+      "description" : "RADIO BUTTON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%98"
+    },
+    {
+      "unicode" : "1f519",
+      "emoji" : "🔙",
+      "description" : "BACK WITH LEFTWARDS ARROW ABOVE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%99"
+    },
+    {
+      "unicode" : "1f51a",
+      "emoji" : "🔚",
+      "description" : "END WITH LEFTWARDS ARROW ABOVE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%9A"
+    },
+    {
+      "unicode" : "1f51b",
+      "emoji" : "🔛",
+      "description" : "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%9B"
+    },
+    {
+      "unicode" : "1f51c",
+      "emoji" : "🔜",
+      "description" : "SOON WITH RIGHTWARDS ARROW ABOVE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%9C"
+    },
+    {
+      "unicode" : "1f51d",
+      "emoji" : "🔝",
+      "description" : "TOP WITH UPWARDS ARROW ABOVE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%9D"
+    },
+    {
+      "unicode" : "1f51e",
+      "emoji" : "🔞",
+      "description" : "NO ONE UNDER EIGHTEEN SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Age_of_majority#Age_18"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f520",
+      "emoji" : "🔠",
+      "description" : "INPUT SYMBOL FOR LATIN CAPITAL LETTERS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%A0"
+    },
+    {
+      "unicode" : "1f521",
+      "emoji" : "🔡",
+      "description" : "INPUT SYMBOL FOR LATIN SMALL LETTERS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%A1"
+    },
+    {
+      "unicode" : "1f522",
+      "emoji" : "🔢",
+      "description" : "INPUT SYMBOL FOR NUMBERS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%A2"
+    },
+    {
+      "unicode" : "1f523",
+      "emoji" : "🔣",
+      "description" : "INPUT SYMBOL FOR SYMBOLS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%A3"
+    },
+    {
+      "unicode" : "1f524",
+      "emoji" : "🔤",
+      "description" : "INPUT SYMBOL FOR LATIN LETTERS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%A4"
+    },
+    {
+      "unicode" : "1f525",
+      "emoji" : "🔥",
+      "description" : "FIRE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%A5"
+    },
+    {
+      "unicode" : "1f526",
+      "emoji" : "🔦",
+      "description" : "ELECTRIC TORCH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%A6"
+    },
+    {
+      "unicode" : "1f527",
+      "emoji" : "🔧",
+      "description" : "WRENCH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%A7"
+    },
+    {
+      "unicode" : "1f528",
+      "emoji" : "🔨",
+      "description" : "HAMMER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%A8"
+    },
+    {
+      "unicode" : "1f529",
+      "emoji" : "🔩",
+      "description" : "NUT AND BOLT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%A9"
+    },
+    {
+      "unicode" : "1f52a",
+      "emoji" : "🔪",
+      "description" : "HOCHO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%AA"
+    },
+    {
+      "unicode" : "1f52b",
+      "emoji" : "🔫",
+      "description" : "PISTOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%AB"
+    },
+    {
+      "unicode" : "1f52c",
+      "emoji" : "🔬",
+      "description" : "MICROSCOPE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%AC"
+    },
+    {
+      "unicode" : "1f52d",
+      "emoji" : "🔭",
+      "description" : "TELESCOPE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%AD"
+    },
+    {
+      "unicode" : "1f52e",
+      "emoji" : "🔮",
+      "description" : "CRYSTAL BALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f530",
+      "emoji" : "🔰",
+      "description" : "JAPANESE SYMBOL FOR BEGINNER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%B0"
+    },
+    {
+      "unicode" : "1f531",
+      "emoji" : "🔱",
+      "description" : "TRIDENT EMBLEM",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%B1"
+    },
+    {
+      "unicode" : "1f532",
+      "emoji" : "🔲",
+      "description" : "BLACK SQUARE BUTTON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%B2"
+    },
+    {
+      "unicode" : "1f533",
+      "emoji" : "🔳",
+      "description" : "WHITE SQUARE BUTTON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%B3"
+    },
+    {
+      "unicode" : "1f534",
+      "emoji" : "🔴",
+      "description" : "LARGE RED CIRCLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%B4"
+    },
+    {
+      "unicode" : "1f535",
+      "emoji" : "🔵",
+      "description" : "LARGE BLUE CIRCLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%B5"
+    },
+    {
+      "unicode" : "1f536",
+      "emoji" : "🔶",
+      "description" : "LARGE ORANGE DIAMOND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%B6"
+    },
+    {
+      "unicode" : "1f537",
+      "emoji" : "🔷",
+      "description" : "LARGE BLUE DIAMOND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%B7"
+    },
+    {
+      "unicode" : "1f538",
+      "emoji" : "🔸",
+      "description" : "SMALL ORANGE DIAMOND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%B8"
+    },
+    {
+      "unicode" : "1f539",
+      "emoji" : "🔹",
+      "description" : "SMALL BLUE DIAMOND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%B9"
+    },
+    {
+      "unicode" : "1f53a",
+      "emoji" : "🔺",
+      "description" : "UP-POINTING RED TRIANGLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%BA"
+    },
+    {
+      "unicode" : "1f53b",
+      "emoji" : "🔻",
+      "description" : "DOWN-POINTING RED TRIANGLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%BB"
+    },
+    {
+      "unicode" : "1f53c",
+      "emoji" : "🔼",
+      "description" : "UP-POINTING SMALL RED TRIANGLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%BC"
+    },
+    {
+      "unicode" : "1f53d",
+      "emoji" : "🔽",
+      "description" : "DOWN-POINTING SMALL RED TRIANGLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%94%BD"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f549",
+      "emoji" : "🕉️",
+      "description" : "OM SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%89"
+    },
+    {
+      "unicode" : "1f54a",
+      "emoji" : "🕊️",
+      "description" : "DOVE OF PEACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%8A"
+    },
+    {
+      "unicode" : "1f54b",
+      "emoji" : "🕋",
+      "description" : "KAABA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%8B"
+    },
+    {
+      "unicode" : "1f54c",
+      "emoji" : "🕌",
+      "description" : "MOSQUE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%8C"
+    },
+    {
+      "unicode" : "1f54d",
+      "emoji" : "🕍",
+      "description" : "SYNAGOGUE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%8D"
+    },
+    {
+      "unicode" : "1f54e",
+      "emoji" : "🕎",
+      "description" : "MENORAH WITH NINE BRANCHES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f550",
+      "emoji" : "🕐",
+      "description" : "CLOCK FACE ONE OCLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%90"
+    },
+    {
+      "unicode" : "1f551",
+      "emoji" : "🕑",
+      "description" : "CLOCK FACE TWO OCLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%91"
+    },
+    {
+      "unicode" : "1f552",
+      "emoji" : "🕒",
+      "description" : "CLOCK FACE THREE OCLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%92"
+    },
+    {
+      "unicode" : "1f553",
+      "emoji" : "🕓",
+      "description" : "CLOCK FACE FOUR OCLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%93"
+    },
+    {
+      "unicode" : "1f554",
+      "emoji" : "🕔",
+      "description" : "CLOCK FACE FIVE OCLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%94"
+    },
+    {
+      "unicode" : "1f555",
+      "emoji" : "🕕",
+      "description" : "CLOCK FACE SIX OCLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%95"
+    },
+    {
+      "unicode" : "1f556",
+      "emoji" : "🕖",
+      "description" : "CLOCK FACE SEVEN OCLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%96"
+    },
+    {
+      "unicode" : "1f557",
+      "emoji" : "🕗",
+      "description" : "CLOCK FACE EIGHT OCLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%97"
+    },
+    {
+      "unicode" : "1f558",
+      "emoji" : "🕘",
+      "description" : "CLOCK FACE NINE OCLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%98"
+    },
+    {
+      "unicode" : "1f559",
+      "emoji" : "🕙",
+      "description" : "CLOCK FACE TEN OCLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%99"
+    },
+    {
+      "unicode" : "1f55a",
+      "emoji" : "🕚",
+      "description" : "CLOCK FACE ELEVEN OCLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%9A"
+    },
+    {
+      "unicode" : "1f55b",
+      "emoji" : "🕛",
+      "description" : "CLOCK FACE TWELVE OCLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%9B"
+    },
+    {
+      "unicode" : "1f55c",
+      "emoji" : "🕜",
+      "description" : "CLOCK FACE ONE-THIRTY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%9C"
+    },
+    {
+      "unicode" : "1f55d",
+      "emoji" : "🕝",
+      "description" : "CLOCK FACE TWO-THIRTY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%9D"
+    },
+    {
+      "unicode" : "1f55e",
+      "emoji" : "🕞",
+      "description" : "CLOCK FACE THREE-THIRTY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f560",
+      "emoji" : "🕠",
+      "description" : "CLOCK FACE FIVE-THIRTY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%A0"
+    },
+    {
+      "unicode" : "1f561",
+      "emoji" : "🕡",
+      "description" : "CLOCK FACE SIX-THIRTY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%A1"
+    },
+    {
+      "unicode" : "1f562",
+      "emoji" : "🕢",
+      "description" : "CLOCK FACE SEVEN-THIRTY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%A2"
+    },
+    {
+      "unicode" : "1f563",
+      "emoji" : "🕣",
+      "description" : "CLOCK FACE EIGHT-THIRTY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%A3"
+    },
+    {
+      "unicode" : "1f564",
+      "emoji" : "🕤",
+      "description" : "CLOCK FACE NINE-THIRTY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%A4"
+    },
+    {
+      "unicode" : "1f565",
+      "emoji" : "🕥",
+      "description" : "CLOCK FACE TEN-THIRTY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%A5"
+    },
+    {
+      "unicode" : "1f566",
+      "emoji" : "🕦",
+      "description" : "CLOCK FACE ELEVEN-THIRTY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%A6"
+    },
+    {
+      "unicode" : "1f567",
+      "emoji" : "🕧",
+      "description" : "CLOCK FACE TWELVE-THIRTY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%A7"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f570",
+      "emoji" : "🕰️",
+      "description" : "MANTELPIECE CLOCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%B0"
+    },
+    {
+      "unicode" : "1f573",
+      "emoji" : "🕳️",
+      "description" : "HOLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Hole_(disambiguation)"
+    },
+    {
+      "unicode" : "1f574",
+      "emoji" : "🕴️",
+      "description" : "MAN IN BUSINESS SUIT LEVITATING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%B4"
+    },
+    {
+      "unicode" : "1f575",
+      "emoji" : "🕵️",
+      "description" : "SLEUTH OR SPY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%B5"
+    },
+    {
+      "unicode" : "1f576",
+      "emoji" : "🕶️",
+      "description" : "DARK SUNGLASSES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%B6"
+    },
+    {
+      "unicode" : "1f577",
+      "emoji" : "🕷️",
+      "description" : "SPIDER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%B7"
+    },
+    {
+      "unicode" : "1f578",
+      "emoji" : "🕸️",
+      "description" : "SPIDER WEB",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%B8"
+    },
+    {
+      "unicode" : "1f579",
+      "emoji" : "🕹️",
+      "description" : "JOYSTICK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%B9"
+    },
+    {
+      "unicode" : "1f57a",
+      "emoji" : "🕺",
+      "description" : "MAN DANCING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%95%BA"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f587",
+      "emoji" : "🖇️",
+      "description" : "LINKED PAPERCLIPS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%87"
+    },
+    {
+      "unicode" : "1f58a",
+      "emoji" : "🖊️",
+      "description" : "LOWER LEFT BALLPOINT PEN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%8A"
+    },
+    {
+      "unicode" : "1f58b",
+      "emoji" : "🖋️",
+      "description" : "LOWER LEFT FOUNTAIN PEN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%8B"
+    },
+    {
+      "unicode" : "1f58c",
+      "emoji" : "🖌️",
+      "description" : "LOWER LEFT PAINTBRUSH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%8C"
+    },
+    {
+      "unicode" : "1f58d",
+      "emoji" : "🖍️",
+      "description" : "LOWER LEFT CRAYON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%8D"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f590",
+      "emoji" : "🖐️",
+      "description" : "RAISED HAND WITH FINGERS SPLAYED",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%90"
+    },
+    {
+      "unicode" : "1f595",
+      "emoji" : "🖕",
+      "description" : "REVERSED HAND WITH MIDDLE FINGER EXTENDED",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%95"
+    },
+    {
+      "unicode" : "1f596",
+      "emoji" : "🖖",
+      "description" : "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%96"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f5a4",
+      "emoji" : "🖤",
+      "description" : "BLACK HEART",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%A4"
+    },
+    {
+      "unicode" : "1f5a5",
+      "emoji" : "🖥️",
+      "description" : "DESKTOP COMPUTER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%A5"
+    },
+    {
+      "unicode" : "1f5a8",
+      "emoji" : "🖨️",
+      "description" : "PRINTER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%A8"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f5b1",
+      "emoji" : "🖱️",
+      "description" : "THREE BUTTON MOUSE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%B1"
+    },
+    {
+      "unicode" : "1f5b2",
+      "emoji" : "🖲️",
+      "description" : "TRACKBALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%B2"
+    },
+    {
+      "unicode" : "1f5bc",
+      "emoji" : "🖼️",
+      "description" : "FRAME WITH PICTURE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%96%BC"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f5c2",
+      "emoji" : "🗂️",
+      "description" : "CARD INDEX DIVIDERS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%82"
+    },
+    {
+      "unicode" : "1f5c3",
+      "emoji" : "🗃️",
+      "description" : "CARD FILE BOX",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%83"
+    },
+    {
+      "unicode" : "1f5c4",
+      "emoji" : "🗄️",
+      "description" : "FILE CABINET",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%84"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f5d1",
+      "emoji" : "🗑️",
+      "description" : "WASTEBASKET",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%91"
+    },
+    {
+      "unicode" : "1f5d2",
+      "emoji" : "🗒️",
+      "description" : "SPIRAL NOTE PAD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%92"
+    },
+    {
+      "unicode" : "1f5d3",
+      "emoji" : "🗓️",
+      "description" : "SPIRAL CALENDAR PAD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%93"
+    },
+    {
+      "unicode" : "1f5dc",
+      "emoji" : "🗜️",
+      "description" : "COMPRESSION",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%9C"
+    },
+    {
+      "unicode" : "1f5dd",
+      "emoji" : "🗝️",
+      "description" : "OLD KEY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%9D"
+    },
+    {
+      "unicode" : "1f5de",
+      "emoji" : "🗞️",
+      "description" : "ROLLED-UP NEWSPAPER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f5e1",
+      "emoji" : "🗡️",
+      "description" : "DAGGER KNIFE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%A1"
+    },
+    {
+      "unicode" : "1f5e3",
+      "emoji" : "🗣️",
+      "description" : "SPEAKING HEAD IN SILHOUETTE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%A3"
+    },
+    {
+      "unicode" : "1f5e8",
+      "emoji" : "🗨️",
+      "description" : "LEFT SPEECH BUBBLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%A8"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f5f3",
+      "emoji" : "🗳️",
+      "description" : "BALLOT BOX WITH BALLOT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%B3"
+    },
+    {
+      "unicode" : "1f5fa",
+      "emoji" : "🗺️",
+      "description" : "WORLD MAP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%BA"
+    },
+    {
+      "unicode" : "1f5fb",
+      "emoji" : "🗻",
+      "description" : "MOUNT FUJI",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%BB"
+    },
+    {
+      "unicode" : "1f5fc",
+      "emoji" : "🗼",
+      "description" : "TOKYO TOWER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%BC"
+    },
+    {
+      "unicode" : "1f5fd",
+      "emoji" : "🗽",
+      "description" : "STATUE OF LIBERTY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%BD"
+    },
+    {
+      "unicode" : "1f5fe",
+      "emoji" : "🗾",
+      "description" : "SILHOUETTE OF JAPAN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%97%BE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f600",
+      "emoji" : "😀",
+      "description" : "GRINNING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%80"
+    },
+    {
+      "unicode" : "1f601",
+      "emoji" : "😁",
+      "description" : "GRINNING FACE WITH SMILING EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%81"
+    },
+    {
+      "unicode" : "1f602",
+      "emoji" : "😂",
+      "description" : "FACE WITH TEARS OF JOY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%82"
+    },
+    {
+      "unicode" : "1f603",
+      "emoji" : "😃",
+      "description" : "SMILING FACE WITH OPEN MOUTH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%83"
+    },
+    {
+      "unicode" : "1f604",
+      "emoji" : "😄",
+      "description" : "SMILING FACE WITH OPEN MOUTH AND SMILING EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%84"
+    },
+    {
+      "unicode" : "1f605",
+      "emoji" : "😅",
+      "description" : "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%85"
+    },
+    {
+      "unicode" : "1f606",
+      "emoji" : "😆",
+      "description" : "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%86"
+    },
+    {
+      "unicode" : "1f607",
+      "emoji" : "😇",
+      "description" : "SMILING FACE WITH HALO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%87"
+    },
+    {
+      "unicode" : "1f608",
+      "emoji" : "😈",
+      "description" : "SMILING FACE WITH HORNS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%88"
+    },
+    {
+      "unicode" : "1f609",
+      "emoji" : "😉",
+      "description" : "WINKING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%89"
+    },
+    {
+      "unicode" : "1f60a",
+      "emoji" : "😊",
+      "description" : "SMILING FACE WITH SMILING EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%8A"
+    },
+    {
+      "unicode" : "1f60b",
+      "emoji" : "😋",
+      "description" : "FACE SAVOURING DELICIOUS FOOD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%8B"
+    },
+    {
+      "unicode" : "1f60c",
+      "emoji" : "😌",
+      "description" : "RELIEVED FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%8C"
+    },
+    {
+      "unicode" : "1f60d",
+      "emoji" : "😍",
+      "description" : "SMILING FACE WITH HEART-SHAPED EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%8D"
+    },
+    {
+      "unicode" : "1f60e",
+      "emoji" : "😎",
+      "description" : "SMILING FACE WITH SUNGLASSES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f610",
+      "emoji" : "😐",
+      "description" : "NEUTRAL FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%90"
+    },
+    {
+      "unicode" : "1f611",
+      "emoji" : "😑",
+      "description" : "EXPRESSIONLESS FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%91"
+    },
+    {
+      "unicode" : "1f612",
+      "emoji" : "😒",
+      "description" : "UNAMUSED FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%92"
+    },
+    {
+      "unicode" : "1f613",
+      "emoji" : "😓",
+      "description" : "FACE WITH COLD SWEAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%93"
+    },
+    {
+      "unicode" : "1f614",
+      "emoji" : "😔",
+      "description" : "PENSIVE FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%94"
+    },
+    {
+      "unicode" : "1f615",
+      "emoji" : "😕",
+      "description" : "CONFUSED FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%95"
+    },
+    {
+      "unicode" : "1f616",
+      "emoji" : "😖",
+      "description" : "CONFOUNDED FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%96"
+    },
+    {
+      "unicode" : "1f617",
+      "emoji" : "😗",
+      "description" : "KISSING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%97"
+    },
+    {
+      "unicode" : "1f618",
+      "emoji" : "😘",
+      "description" : "FACE THROWING A KISS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%98"
+    },
+    {
+      "unicode" : "1f619",
+      "emoji" : "😙",
+      "description" : "KISSING FACE WITH SMILING EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%99"
+    },
+    {
+      "unicode" : "1f61a",
+      "emoji" : "😚",
+      "description" : "KISSING FACE WITH CLOSED EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%9A"
+    },
+    {
+      "unicode" : "1f61b",
+      "emoji" : "😛",
+      "description" : "FACE WITH STUCK-OUT TONGUE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%9B"
+    },
+    {
+      "unicode" : "1f61c",
+      "emoji" : "😜",
+      "description" : "FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%9C"
+    },
+    {
+      "unicode" : "1f61d",
+      "emoji" : "😝",
+      "description" : "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%9D"
+    },
+    {
+      "unicode" : "1f61e",
+      "emoji" : "😞",
+      "description" : "DISAPPOINTED FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f620",
+      "emoji" : "😠",
+      "description" : "ANGRY FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%A0"
+    },
+    {
+      "unicode" : "1f621",
+      "emoji" : "😡",
+      "description" : "POUTING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%A1"
+    },
+    {
+      "unicode" : "1f622",
+      "emoji" : "😢",
+      "description" : "CRYING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%A2"
+    },
+    {
+      "unicode" : "1f623",
+      "emoji" : "😣",
+      "description" : "PERSEVERING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%A3"
+    },
+    {
+      "unicode" : "1f624",
+      "emoji" : "😤",
+      "description" : "FACE WITH LOOK OF TRIUMPH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%A4"
+    },
+    {
+      "unicode" : "1f625",
+      "emoji" : "😥",
+      "description" : "DISAPPOINTED BUT RELIEVED FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%A5"
+    },
+    {
+      "unicode" : "1f626",
+      "emoji" : "😦",
+      "description" : "FROWNING FACE WITH OPEN MOUTH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%A6"
+    },
+    {
+      "unicode" : "1f627",
+      "emoji" : "😧",
+      "description" : "ANGUISHED FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%A7"
+    },
+    {
+      "unicode" : "1f628",
+      "emoji" : "😨",
+      "description" : "FEARFUL FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%A8"
+    },
+    {
+      "unicode" : "1f629",
+      "emoji" : "😩",
+      "description" : "WEARY FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%A9"
+    },
+    {
+      "unicode" : "1f62a",
+      "emoji" : "😪",
+      "description" : "SLEEPY FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%AA"
+    },
+    {
+      "unicode" : "1f62b",
+      "emoji" : "😫",
+      "description" : "TIRED FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%AB"
+    },
+    {
+      "unicode" : "1f62c",
+      "emoji" : "😬",
+      "description" : "GRIMACING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%AC"
+    },
+    {
+      "unicode" : "1f62d",
+      "emoji" : "😭",
+      "description" : "LOUDLY CRYING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%AD"
+    },
+    {
+      "unicode" : "1f62e",
+      "emoji" : "😮",
+      "description" : "FACE WITH OPEN MOUTH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f630",
+      "emoji" : "😰",
+      "description" : "FACE WITH OPEN MOUTH AND COLD SWEAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%B0"
+    },
+    {
+      "unicode" : "1f631",
+      "emoji" : "😱",
+      "description" : "FACE SCREAMING IN FEAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%B1"
+    },
+    {
+      "unicode" : "1f632",
+      "emoji" : "😲",
+      "description" : "ASTONISHED FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%B2"
+    },
+    {
+      "unicode" : "1f633",
+      "emoji" : "😳",
+      "description" : "FLUSHED FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%B3"
+    },
+    {
+      "unicode" : "1f634",
+      "emoji" : "😴",
+      "description" : "SLEEPING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%B4"
+    },
+    {
+      "unicode" : "1f635",
+      "emoji" : "😵",
+      "description" : "DIZZY FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%B5"
+    },
+    {
+      "unicode" : "1f636",
+      "emoji" : "😶",
+      "description" : "FACE WITHOUT MOUTH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%B6"
+    },
+    {
+      "unicode" : "1f637",
+      "emoji" : "😷",
+      "description" : "FACE WITH MEDICAL MASK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%B7"
+    },
+    {
+      "unicode" : "1f638",
+      "emoji" : "😸",
+      "description" : "GRINNING CAT FACE WITH SMILING EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%B8"
+    },
+    {
+      "unicode" : "1f639",
+      "emoji" : "😹",
+      "description" : "CAT FACE WITH TEARS OF JOY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%B9"
+    },
+    {
+      "unicode" : "1f63a",
+      "emoji" : "😺",
+      "description" : "SMILING CAT FACE WITH OPEN MOUTH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%BA"
+    },
+    {
+      "unicode" : "1f63b",
+      "emoji" : "😻",
+      "description" : "SMILING CAT FACE WITH HEART-SHAPED EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%BB"
+    },
+    {
+      "unicode" : "1f63c",
+      "emoji" : "😼",
+      "description" : "CAT FACE WITH WRY SMILE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%BC"
+    },
+    {
+      "unicode" : "1f63d",
+      "emoji" : "😽",
+      "description" : "KISSING CAT FACE WITH CLOSED EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%BD"
+    },
+    {
+      "unicode" : "1f63e",
+      "emoji" : "😾",
+      "description" : "POUTING CAT FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%98%BE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f640",
+      "emoji" : "🙀",
+      "description" : "WEARY CAT FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%80"
+    },
+    {
+      "unicode" : "1f641",
+      "emoji" : "🙁",
+      "description" : "SLIGHTLY FROWNING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%81"
+    },
+    {
+      "unicode" : "1f642",
+      "emoji" : "🙂",
+      "description" : "SLIGHTLY SMILING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%82"
+    },
+    {
+      "unicode" : "1f643",
+      "emoji" : "🙃",
+      "description" : "UPSIDE-DOWN FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%83"
+    },
+    {
+      "unicode" : "1f644",
+      "emoji" : "🙄",
+      "description" : "FACE WITH ROLLING EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%84"
+    },
+    {
+      "unicode" : "1f645",
+      "emoji" : "🙅",
+      "description" : "FACE WITH NO GOOD GESTURE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%85"
+    },
+    {
+      "unicode" : "1f646",
+      "emoji" : "🙆",
+      "description" : "FACE WITH OK GESTURE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%86"
+    },
+    {
+      "unicode" : "1f647",
+      "emoji" : "🙇",
+      "description" : "PERSON BOWING DEEPLY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%87"
+    },
+    {
+      "unicode" : "1f648",
+      "emoji" : "🙈",
+      "description" : "SEE-NO-EVIL MONKEY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%88"
+    },
+    {
+      "unicode" : "1f649",
+      "emoji" : "🙉",
+      "description" : "HEAR-NO-EVIL MONKEY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%89"
+    },
+    {
+      "unicode" : "1f64a",
+      "emoji" : "🙊",
+      "description" : "SPEAK-NO-EVIL MONKEY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%8A"
+    },
+    {
+      "unicode" : "1f64b",
+      "emoji" : "🙋",
+      "description" : "HAPPY PERSON RAISING ONE HAND",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%8B"
+    },
+    {
+      "unicode" : "1f64c",
+      "emoji" : "🙌",
+      "description" : "PERSON RAISING BOTH HANDS IN CELEBRATION",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%8C"
+    },
+    {
+      "unicode" : "1f64d",
+      "emoji" : "🙍",
+      "description" : "PERSON FROWNING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%8D"
+    },
+    {
+      "unicode" : "1f64e",
+      "emoji" : "🙎",
+      "description" : "PERSON WITH POUTING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%99%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f680",
+      "emoji" : "🚀",
+      "description" : "ROCKET",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%80"
+    },
+    {
+      "unicode" : "1f681",
+      "emoji" : "🚁",
+      "description" : "HELICOPTER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%81"
+    },
+    {
+      "unicode" : "1f682",
+      "emoji" : "🚂",
+      "description" : "STEAM LOCOMOTIVE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%82"
+    },
+    {
+      "unicode" : "1f683",
+      "emoji" : "🚃",
+      "description" : "RAILWAY CAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%83"
+    },
+    {
+      "unicode" : "1f684",
+      "emoji" : "🚄",
+      "description" : "HIGH-SPEED TRAIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%84"
+    },
+    {
+      "unicode" : "1f685",
+      "emoji" : "🚅",
+      "description" : "HIGH-SPEED TRAIN WITH BULLET NOSE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%85"
+    },
+    {
+      "unicode" : "1f686",
+      "emoji" : "🚆",
+      "description" : "TRAIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%86"
+    },
+    {
+      "unicode" : "1f687",
+      "emoji" : "🚇",
+      "description" : "METRO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%87"
+    },
+    {
+      "unicode" : "1f688",
+      "emoji" : "🚈",
+      "description" : "LIGHT RAIL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%88"
+    },
+    {
+      "unicode" : "1f689",
+      "emoji" : "🚉",
+      "description" : "STATION",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%89"
+    },
+    {
+      "unicode" : "1f68a",
+      "emoji" : "🚊",
+      "description" : "TRAM",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%8A"
+    },
+    {
+      "unicode" : "1f68b",
+      "emoji" : "🚋",
+      "description" : "TRAM CAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%8B"
+    },
+    {
+      "unicode" : "1f68c",
+      "emoji" : "🚌",
+      "description" : "BUS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%8C"
+    },
+    {
+      "unicode" : "1f68d",
+      "emoji" : "🚍",
+      "description" : "ONCOMING BUS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%8D"
+    },
+    {
+      "unicode" : "1f68e",
+      "emoji" : "🚎",
+      "description" : "TROLLEYBUS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f690",
+      "emoji" : "🚐",
+      "description" : "MINIBUS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%90"
+    },
+    {
+      "unicode" : "1f691",
+      "emoji" : "🚑",
+      "description" : "AMBULANCE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%91"
+    },
+    {
+      "unicode" : "1f692",
+      "emoji" : "🚒",
+      "description" : "FIRE ENGINE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%92"
+    },
+    {
+      "unicode" : "1f693",
+      "emoji" : "🚓",
+      "description" : "POLICE CAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%93"
+    },
+    {
+      "unicode" : "1f694",
+      "emoji" : "🚔",
+      "description" : "ONCOMING POLICE CAR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%94"
+    },
+    {
+      "unicode" : "1f695",
+      "emoji" : "🚕",
+      "description" : "TAXI",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%95"
+    },
+    {
+      "unicode" : "1f696",
+      "emoji" : "🚖",
+      "description" : "ONCOMING TAXI",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%96"
+    },
+    {
+      "unicode" : "1f697",
+      "emoji" : "🚗",
+      "description" : "AUTOMOBILE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%97"
+    },
+    {
+      "unicode" : "1f698",
+      "emoji" : "🚘",
+      "description" : "ONCOMING AUTOMOBILE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%98"
+    },
+    {
+      "unicode" : "1f699",
+      "emoji" : "🚙",
+      "description" : "RECREATIONAL VEHICLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%99"
+    },
+    {
+      "unicode" : "1f69a",
+      "emoji" : "🚚",
+      "description" : "DELIVERY TRUCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%9A"
+    },
+    {
+      "unicode" : "1f69b",
+      "emoji" : "🚛",
+      "description" : "ARTICULATED LORRY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%9B"
+    },
+    {
+      "unicode" : "1f69c",
+      "emoji" : "🚜",
+      "description" : "TRACTOR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%9C"
+    },
+    {
+      "unicode" : "1f69d",
+      "emoji" : "🚝",
+      "description" : "MONORAIL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%9D"
+    },
+    {
+      "unicode" : "1f69e",
+      "emoji" : "🚞",
+      "description" : "MOUNTAIN RAILWAY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f6a0",
+      "emoji" : "🚠",
+      "description" : "MOUNTAIN CABLEWAY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%A0"
+    },
+    {
+      "unicode" : "1f6a1",
+      "emoji" : "🚡",
+      "description" : "AERIAL TRAMWAY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%A1"
+    },
+    {
+      "unicode" : "1f6a2",
+      "emoji" : "🚢",
+      "description" : "SHIP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%A2"
+    },
+    {
+      "unicode" : "1f6a3",
+      "emoji" : "🚣",
+      "description" : "ROWBOAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%A3"
+    },
+    {
+      "unicode" : "1f6a4",
+      "emoji" : "🚤",
+      "description" : "SPEEDBOAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%A4"
+    },
+    {
+      "unicode" : "1f6a5",
+      "emoji" : "🚥",
+      "description" : "HORIZONTAL TRAFFIC LIGHT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%A5"
+    },
+    {
+      "unicode" : "1f6a6",
+      "emoji" : "🚦",
+      "description" : "VERTICAL TRAFFIC LIGHT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%A6"
+    },
+    {
+      "unicode" : "1f6a7",
+      "emoji" : "🚧",
+      "description" : "CONSTRUCTION SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%A7"
+    },
+    {
+      "unicode" : "1f6a8",
+      "emoji" : "🚨",
+      "description" : "POLICE CARS REVOLVING LIGHT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%A8"
+    },
+    {
+      "unicode" : "1f6a9",
+      "emoji" : "🚩",
+      "description" : "TRIANGULAR FLAG ON POST",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%A9"
+    },
+    {
+      "unicode" : "1f6aa",
+      "emoji" : "🚪",
+      "description" : "DOOR",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%AA"
+    },
+    {
+      "unicode" : "1f6ab",
+      "emoji" : "🚫",
+      "description" : "NO ENTRY SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%AB"
+    },
+    {
+      "unicode" : "1f6ac",
+      "emoji" : "🚬",
+      "description" : "SMOKING SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%AC"
+    },
+    {
+      "unicode" : "1f6ad",
+      "emoji" : "🚭",
+      "description" : "NO SMOKING SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%AD"
+    },
+    {
+      "unicode" : "1f6ae",
+      "emoji" : "🚮",
+      "description" : "PUT LITTER IN ITS PLACE SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f6b0",
+      "emoji" : "🚰",
+      "description" : "POTABLE WATER SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%B0"
+    },
+    {
+      "unicode" : "1f6b1",
+      "emoji" : "🚱",
+      "description" : "NON-POTABLE WATER SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%B1"
+    },
+    {
+      "unicode" : "1f6b2",
+      "emoji" : "🚲",
+      "description" : "BICYCLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%B2"
+    },
+    {
+      "unicode" : "1f6b3",
+      "emoji" : "🚳",
+      "description" : "NO BICYCLES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%B3"
+    },
+    {
+      "unicode" : "1f6b4",
+      "emoji" : "🚴",
+      "description" : "BICYCLIST",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%B4"
+    },
+    {
+      "unicode" : "1f6b5",
+      "emoji" : "🚵",
+      "description" : "MOUNTAIN BICYCLIST",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%B5"
+    },
+    {
+      "unicode" : "1f6b6",
+      "emoji" : "🚶",
+      "description" : "PEDESTRIAN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%B6"
+    },
+    {
+      "unicode" : "1f6b7",
+      "emoji" : "🚷",
+      "description" : "NO PEDESTRIANS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%B7"
+    },
+    {
+      "unicode" : "1f6b8",
+      "emoji" : "🚸",
+      "description" : "CHILDREN CROSSING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%B8"
+    },
+    {
+      "unicode" : "1f6b9",
+      "emoji" : "🚹",
+      "description" : "MENS SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%B9"
+    },
+    {
+      "unicode" : "1f6ba",
+      "emoji" : "🚺",
+      "description" : "WOMENS SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%BA"
+    },
+    {
+      "unicode" : "1f6bb",
+      "emoji" : "🚻",
+      "description" : "RESTROOM",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%BB"
+    },
+    {
+      "unicode" : "1f6bc",
+      "emoji" : "🚼",
+      "description" : "BABY SYMBOL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%BC"
+    },
+    {
+      "unicode" : "1f6bd",
+      "emoji" : "🚽",
+      "description" : "TOILET",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%BD"
+    },
+    {
+      "unicode" : "1f6be",
+      "emoji" : "🚾",
+      "description" : "WATER CLOSET",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9A%BE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f6c0",
+      "emoji" : "🛀",
+      "description" : "BATH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%80"
+    },
+    {
+      "unicode" : "1f6c1",
+      "emoji" : "🛁",
+      "description" : "BATHTUB",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%81"
+    },
+    {
+      "unicode" : "1f6c2",
+      "emoji" : "🛂",
+      "description" : "PASSPORT CONTROL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%82"
+    },
+    {
+      "unicode" : "1f6c3",
+      "emoji" : "🛃",
+      "description" : "CUSTOMS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%83"
+    },
+    {
+      "unicode" : "1f6c4",
+      "emoji" : "🛄",
+      "description" : "BAGGAGE CLAIM",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%84"
+    },
+    {
+      "unicode" : "1f6c5",
+      "emoji" : "🛅",
+      "description" : "LEFT LUGGAGE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%85"
+    },
+    {
+      "unicode" : "1f6cb",
+      "emoji" : "🛋️",
+      "description" : "COUCH AND LAMP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%8B"
+    },
+    {
+      "unicode" : "1f6cc",
+      "emoji" : "🛌",
+      "description" : "SLEEPING ACCOMMODATION",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%8C"
+    },
+    {
+      "unicode" : "1f6cd",
+      "emoji" : "🛍️",
+      "description" : "SHOPPING BAGS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%8D"
+    },
+    {
+      "unicode" : "1f6ce",
+      "emoji" : "🛎️",
+      "description" : "BELLHOP BELL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f6d0",
+      "emoji" : "🛐",
+      "description" : "PLACE OF WORSHIP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%90"
+    },
+    {
+      "unicode" : "1f6d1",
+      "emoji" : "🛑",
+      "description" : "OCTAGONAL SIGN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%91"
+    },
+    {
+      "unicode" : "1f6d2",
+      "emoji" : "🛒",
+      "description" : "SHOPPING TROLLEY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%92"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f6e0",
+      "emoji" : "🛠️",
+      "description" : "HAMMER AND WRENCH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%A0"
+    },
+    {
+      "unicode" : "1f6e1",
+      "emoji" : "🛡️",
+      "description" : "SHIELD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%A1"
+    },
+    {
+      "unicode" : "1f6e2",
+      "emoji" : "🛢️",
+      "description" : "OIL DRUM",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%A2"
+    },
+    {
+      "unicode" : "1f6e3",
+      "emoji" : "🛣️",
+      "description" : "MOTORWAY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%A3"
+    },
+    {
+      "unicode" : "1f6e4",
+      "emoji" : "🛤️",
+      "description" : "RAILWAY TRACK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%A4"
+    },
+    {
+      "unicode" : "1f6e5",
+      "emoji" : "🛥️",
+      "description" : "MOTOR BOAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%A5"
+    },
+    {
+      "unicode" : "1f6e9",
+      "emoji" : "🛩️",
+      "description" : "SMALL AIRPLANE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%A9"
+    },
+    {
+      "unicode" : "1f6eb",
+      "emoji" : "🛫",
+      "description" : "AIRPLANE DEPARTURE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%AB"
+    },
+    {
+      "unicode" : "1f6ec",
+      "emoji" : "🛬",
+      "description" : "AIRPLANE ARRIVING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%AC"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f6f0",
+      "emoji" : "🛰️",
+      "description" : "SATELLITE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%B0"
+    },
+    {
+      "unicode" : "1f6f3",
+      "emoji" : "🛳️",
+      "description" : "PASSENGER SHIP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%B3"
+    },
+    {
+      "unicode" : "1f6f4",
+      "emoji" : "🛴",
+      "description" : "SCOOTER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%B4"
+    },
+    {
+      "unicode" : "1f6f5",
+      "emoji" : "🛵",
+      "description" : "MOTOR SCOOTER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%B5"
+    },
+    {
+      "unicode" : "1f6f6",
+      "emoji" : "🛶",
+      "description" : "CANOE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%B6"
+    },
+    {
+      "unicode" : "1f6f7",
+      "emoji" : "🛷",
+      "description" : "SLED",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%B7"
+    },
+    {
+      "unicode" : "1f6f8",
+      "emoji" : "🛸",
+      "description" : "FLYING SAUCER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%9B%B8"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f910",
+      "emoji" : "🤐",
+      "description" : "ZIPPER-MOUTH FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%90"
+    },
+    {
+      "unicode" : "1f911",
+      "emoji" : "🤑",
+      "description" : "MONEY-MOUTH FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%91"
+    },
+    {
+      "unicode" : "1f912",
+      "emoji" : "🤒",
+      "description" : "FACE WITH THERMOMETER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%92"
+    },
+    {
+      "unicode" : "1f913",
+      "emoji" : "🤓",
+      "description" : "NERD FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%93"
+    },
+    {
+      "unicode" : "1f914",
+      "emoji" : "🤔",
+      "description" : "THINKING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%94"
+    },
+    {
+      "unicode" : "1f915",
+      "emoji" : "🤕",
+      "description" : "FACE WITH HEAD-BANDAGE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%95"
+    },
+    {
+      "unicode" : "1f916",
+      "emoji" : "🤖",
+      "description" : "ROBOT FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%96"
+    },
+    {
+      "unicode" : "1f917",
+      "emoji" : "🤗",
+      "description" : "HUGGING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%97"
+    },
+    {
+      "unicode" : "1f918",
+      "emoji" : "🤘",
+      "description" : "SIGN OF THE HORNS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%98"
+    },
+    {
+      "unicode" : "1f919",
+      "emoji" : "🤙",
+      "description" : "CALL ME HAND",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%A4%99&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f91a",
+      "emoji" : "🤚",
+      "description" : "RAISED BACK OF HAND",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%A4%9A&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f91b",
+      "emoji" : "🤛",
+      "description" : "LEFT-FACING FIST",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%9B"
+    },
+    {
+      "unicode" : "1f91c",
+      "emoji" : "🤜",
+      "description" : "RIGHT-FACING FIST",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%9C"
+    },
+    {
+      "unicode" : "1f91d",
+      "emoji" : "🤝",
+      "description" : "HANDSHAKE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%9D"
+    },
+    {
+      "unicode" : "1f91e",
+      "emoji" : "🤞",
+      "description" : "HAND WITH INDEX AND MIDDLE FINGERS CROSSED",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f920",
+      "emoji" : "🤠",
+      "description" : "FACE WITH COWBOY HAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%A0"
+    },
+    {
+      "unicode" : "1f921",
+      "emoji" : "🤡",
+      "description" : "CLOWN FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%A1"
+    },
+    {
+      "unicode" : "1f922",
+      "emoji" : "🤢",
+      "description" : "NAUSEATED FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%A2"
+    },
+    {
+      "unicode" : "1f923",
+      "emoji" : "🤣",
+      "description" : "ROLLING ON THE FLOOR LAUGHING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%A3"
+    },
+    {
+      "unicode" : "1f924",
+      "emoji" : "🤤",
+      "description" : "DROOLING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%A4"
+    },
+    {
+      "unicode" : "1f925",
+      "emoji" : "🤥",
+      "description" : "LYING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%A5"
+    },
+    {
+      "unicode" : "1f926",
+      "emoji" : "🤦",
+      "description" : "FACE PALM",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%A6"
+    },
+    {
+      "unicode" : "1f927",
+      "emoji" : "🤧",
+      "description" : "SNEEZING FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%A7"
+    },
+    {
+      "unicode" : "1f928",
+      "emoji" : "🤨",
+      "description" : "FACE WITH ONE EYEBROW RAISED",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%A4%A8&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f929",
+      "emoji" : "🤩",
+      "description" : "GRINNING FACE WITH STAR EYES",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%A4%A9&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f92a",
+      "emoji" : "🤪",
+      "description" : "GRINNING FACE WITH ONE LARGE AND ONE SMALL EYE",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%A4%AA&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f92b",
+      "emoji" : "🤫",
+      "description" : "FACE WITH FINGER COVERING CLOSED LIPS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%AB"
+    },
+    {
+      "unicode" : "1f92c",
+      "emoji" : "🤬",
+      "description" : "SERIOUS FACE WITH SYMBOLS COVERING MOUTH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%AC"
+    },
+    {
+      "unicode" : "1f92d",
+      "emoji" : "🤭",
+      "description" : "SMILING FACE WITH SMILING EYES AND HAND COVERING MOUTH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%AD"
+    },
+    {
+      "unicode" : "1f92e",
+      "emoji" : "🤮",
+      "description" : "FACE WITH OPEN MOUTH VOMITING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%AE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f930",
+      "emoji" : "🤰",
+      "description" : "PREGNANT WOMAN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%B0"
+    },
+    {
+      "unicode" : "1f931",
+      "emoji" : "🤱",
+      "description" : "BREAST-FEEDING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%B1"
+    },
+    {
+      "unicode" : "1f932",
+      "emoji" : "🤲",
+      "description" : "PALMS UP TOGETHER",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%A4%B2&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f933",
+      "emoji" : "🤳",
+      "description" : "SELFIE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%B3"
+    },
+    {
+      "unicode" : "1f934",
+      "emoji" : "🤴",
+      "description" : "PRINCE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%B4"
+    },
+    {
+      "unicode" : "1f935",
+      "emoji" : "🤵",
+      "description" : "MAN IN TUXEDO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%B5"
+    },
+    {
+      "unicode" : "1f936",
+      "emoji" : "🤶",
+      "description" : "MOTHER CHRISTMAS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%B6"
+    },
+    {
+      "unicode" : "1f937",
+      "emoji" : "🤷",
+      "description" : "SHRUG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%B7"
+    },
+    {
+      "unicode" : "1f938",
+      "emoji" : "🤸",
+      "description" : "PERSON DOING CARTWHEEL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%B8"
+    },
+    {
+      "unicode" : "1f939",
+      "emoji" : "🤹",
+      "description" : "JUGGLING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%B9"
+    },
+    {
+      "unicode" : "1f93a",
+      "emoji" : "🤺",
+      "description" : "FENCER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%BA"
+    },
+    {
+      "unicode" : "1f93c",
+      "emoji" : "🤼",
+      "description" : "WRESTLERS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%BC"
+    },
+    {
+      "unicode" : "1f93d",
+      "emoji" : "🤽",
+      "description" : "WATER POLO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%BD"
+    },
+    {
+      "unicode" : "1f93e",
+      "emoji" : "🤾",
+      "description" : "HANDBALL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A4%BE"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f940",
+      "emoji" : "🥀",
+      "description" : "WILTED FLOWER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%80"
+    },
+    {
+      "unicode" : "1f941",
+      "emoji" : "🥁",
+      "description" : "DRUM WITH DRUMSTICKS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%81"
+    },
+    {
+      "unicode" : "1f942",
+      "emoji" : "🥂",
+      "description" : "CLINKING GLASSES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%82"
+    },
+    {
+      "unicode" : "1f943",
+      "emoji" : "🥃",
+      "description" : "TUMBLER GLASS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%83"
+    },
+    {
+      "unicode" : "1f944",
+      "emoji" : "🥄",
+      "description" : "SPOON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%84"
+    },
+    {
+      "unicode" : "1f945",
+      "emoji" : "🥅",
+      "description" : "GOAL NET",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%85"
+    },
+    {
+      "unicode" : "1f947",
+      "emoji" : "🥇",
+      "description" : "FIRST PLACE MEDAL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%87"
+    },
+    {
+      "unicode" : "1f948",
+      "emoji" : "🥈",
+      "description" : "SECOND PLACE MEDAL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%88"
+    },
+    {
+      "unicode" : "1f949",
+      "emoji" : "🥉",
+      "description" : "THIRD PLACE MEDAL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%89"
+    },
+    {
+      "unicode" : "1f94a",
+      "emoji" : "🥊",
+      "description" : "BOXING GLOVE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%8A"
+    },
+    {
+      "unicode" : "1f94b",
+      "emoji" : "🥋",
+      "description" : "MARTIAL ARTS UNIFORM",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%8B"
+    },
+    {
+      "unicode" : "1f94c",
+      "emoji" : "🥌",
+      "description" : "CURLING STONE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%8C"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f950",
+      "emoji" : "🥐",
+      "description" : "CROISSANT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%90"
+    },
+    {
+      "unicode" : "1f951",
+      "emoji" : "🥑",
+      "description" : "AVOCADO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%91"
+    },
+    {
+      "unicode" : "1f952",
+      "emoji" : "🥒",
+      "description" : "CUCUMBER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%92"
+    },
+    {
+      "unicode" : "1f953",
+      "emoji" : "🥓",
+      "description" : "BACON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%93"
+    },
+    {
+      "unicode" : "1f954",
+      "emoji" : "🥔",
+      "description" : "POTATO",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%94"
+    },
+    {
+      "unicode" : "1f955",
+      "emoji" : "🥕",
+      "description" : "CARROT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%95"
+    },
+    {
+      "unicode" : "1f956",
+      "emoji" : "🥖",
+      "description" : "BAGUETTE BREAD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%96"
+    },
+    {
+      "unicode" : "1f957",
+      "emoji" : "🥗",
+      "description" : "GREEN SALAD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%97"
+    },
+    {
+      "unicode" : "1f958",
+      "emoji" : "🥘",
+      "description" : "SHALLOW PAN OF FOOD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%98"
+    },
+    {
+      "unicode" : "1f959",
+      "emoji" : "🥙",
+      "description" : "STUFFED FLATBREAD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%99"
+    },
+    {
+      "unicode" : "1f95a",
+      "emoji" : "🥚",
+      "description" : "EGG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%9A"
+    },
+    {
+      "unicode" : "1f95b",
+      "emoji" : "🥛",
+      "description" : "GLASS OF MILK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%9B"
+    },
+    {
+      "unicode" : "1f95c",
+      "emoji" : "🥜",
+      "description" : "PEANUTS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%9C"
+    },
+    {
+      "unicode" : "1f95d",
+      "emoji" : "🥝",
+      "description" : "KIWIFRUIT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%9D"
+    },
+    {
+      "unicode" : "1f95e",
+      "emoji" : "🥞",
+      "description" : "PANCAKES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f960",
+      "emoji" : "🥠",
+      "description" : "FORTUNE COOKIE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%A0"
+    },
+    {
+      "unicode" : "1f961",
+      "emoji" : "🥡",
+      "description" : "TAKEOUT BOX",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%A1"
+    },
+    {
+      "unicode" : "1f962",
+      "emoji" : "🥢",
+      "description" : "CHOPSTICKS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%A2"
+    },
+    {
+      "unicode" : "1f963",
+      "emoji" : "🥣",
+      "description" : "BOWL WITH SPOON",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%A5%A3&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f964",
+      "emoji" : "🥤",
+      "description" : "CUP WITH STRAW",
+      "wiki" : "https:\/\/en.wikipedia.org\/w\/index.php?title=%F0%9F%A5%A4&amp;action=edit&amp;redlink=1"
+    },
+    {
+      "unicode" : "1f965",
+      "emoji" : "🥥",
+      "description" : "COCONUT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%A5"
+    },
+    {
+      "unicode" : "1f966",
+      "emoji" : "🥦",
+      "description" : "BROCCOLI",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%A6"
+    },
+    {
+      "unicode" : "1f967",
+      "emoji" : "🥧",
+      "description" : "PIE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%A7"
+    },
+    {
+      "unicode" : "1f968",
+      "emoji" : "🥨",
+      "description" : "PRETZEL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%A8"
+    },
+    {
+      "unicode" : "1f969",
+      "emoji" : "🥩",
+      "description" : "CUT OF MEAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%A9"
+    },
+    {
+      "unicode" : "1f96a",
+      "emoji" : "🥪",
+      "description" : "SANDWICH",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%AA"
+    },
+    {
+      "unicode" : "1f96b",
+      "emoji" : "🥫",
+      "description" : "CANNED FOOD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A5%AB"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f980",
+      "emoji" : "🦀",
+      "description" : "CRAB",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%80"
+    },
+    {
+      "unicode" : "1f981",
+      "emoji" : "🦁",
+      "description" : "LION FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%81"
+    },
+    {
+      "unicode" : "1f982",
+      "emoji" : "🦂",
+      "description" : "SCORPION",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%82"
+    },
+    {
+      "unicode" : "1f983",
+      "emoji" : "🦃",
+      "description" : "TURKEY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%83"
+    },
+    {
+      "unicode" : "1f984",
+      "emoji" : "🦄",
+      "description" : "UNICORN FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%84"
+    },
+    {
+      "unicode" : "1f985",
+      "emoji" : "🦅",
+      "description" : "EAGLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%85"
+    },
+    {
+      "unicode" : "1f986",
+      "emoji" : "🦆",
+      "description" : "DUCK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%86"
+    },
+    {
+      "unicode" : "1f987",
+      "emoji" : "🦇",
+      "description" : "BAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%87"
+    },
+    {
+      "unicode" : "1f988",
+      "emoji" : "🦈",
+      "description" : "SHARK",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%88"
+    },
+    {
+      "unicode" : "1f989",
+      "emoji" : "🦉",
+      "description" : "OWL",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%89"
+    },
+    {
+      "unicode" : "1f98a",
+      "emoji" : "🦊",
+      "description" : "FOX FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%8A"
+    },
+    {
+      "unicode" : "1f98b",
+      "emoji" : "🦋",
+      "description" : "BUTTERFLY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%8B"
+    },
+    {
+      "unicode" : "1f98c",
+      "emoji" : "🦌",
+      "description" : "DEER",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%8C"
+    },
+    {
+      "unicode" : "1f98d",
+      "emoji" : "🦍",
+      "description" : "GORILLA",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%8D"
+    },
+    {
+      "unicode" : "1f98e",
+      "emoji" : "🦎",
+      "description" : "LIZARD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%8E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f990",
+      "emoji" : "🦐",
+      "description" : "SHRIMP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%90"
+    },
+    {
+      "unicode" : "1f991",
+      "emoji" : "🦑",
+      "description" : "SQUID",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%91"
+    },
+    {
+      "unicode" : "1f992",
+      "emoji" : "🦒",
+      "description" : "GIRAFFE FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%92"
+    },
+    {
+      "unicode" : "1f993",
+      "emoji" : "🦓",
+      "description" : "ZEBRA FACE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%93"
+    },
+    {
+      "unicode" : "1f994",
+      "emoji" : "🦔",
+      "description" : "HEDGEHOG",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%94"
+    },
+    {
+      "unicode" : "1f995",
+      "emoji" : "🦕",
+      "description" : "SAUROPOD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%95"
+    },
+    {
+      "unicode" : "1f996",
+      "emoji" : "🦖",
+      "description" : "T-REX",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%96"
+    },
+    {
+      "unicode" : "1f997",
+      "emoji" : "🦗",
+      "description" : "CRICKET",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A6%97"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f9c0",
+      "emoji" : "🧀",
+      "description" : "CHEESE WEDGE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%80"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f9d0",
+      "emoji" : "🧐",
+      "description" : "FACE WITH MONOCLE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%90"
+    },
+    {
+      "unicode" : "1f9d1",
+      "emoji" : "🧑",
+      "description" : "ADULT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%91"
+    },
+    {
+      "unicode" : "1f9d2",
+      "emoji" : "🧒",
+      "description" : "CHILD",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%92"
+    },
+    {
+      "unicode" : "1f9d3",
+      "emoji" : "🧓",
+      "description" : "OLDER ADULT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%93"
+    },
+    {
+      "unicode" : "1f9d4",
+      "emoji" : "🧔",
+      "description" : "BEARDED PERSON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%94"
+    },
+    {
+      "unicode" : "1f9d5",
+      "emoji" : "🧕",
+      "description" : "PERSON WITH HEADSCARF",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%95"
+    },
+    {
+      "unicode" : "1f9d6",
+      "emoji" : "🧖",
+      "description" : "PERSON IN STEAMY ROOM",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%96"
+    },
+    {
+      "unicode" : "1f9d7",
+      "emoji" : "🧗",
+      "description" : "PERSON CLIMBING",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%97"
+    },
+    {
+      "unicode" : "1f9d8",
+      "emoji" : "🧘",
+      "description" : "PERSON IN LOTUS POSITION",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%98"
+    },
+    {
+      "unicode" : "1f9d9",
+      "emoji" : "🧙",
+      "description" : "MAGE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%99"
+    },
+    {
+      "unicode" : "1f9da",
+      "emoji" : "🧚",
+      "description" : "FAIRY",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%9A"
+    },
+    {
+      "unicode" : "1f9db",
+      "emoji" : "🧛",
+      "description" : "VAMPIRE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%9B"
+    },
+    {
+      "unicode" : "1f9dc",
+      "emoji" : "🧜",
+      "description" : "MERPERSON",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/Merperson_(disambiguation)"
+    },
+    {
+      "unicode" : "1f9dd",
+      "emoji" : "🧝",
+      "description" : "ELF",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%9D"
+    },
+    {
+      "unicode" : "1f9de",
+      "emoji" : "🧞",
+      "description" : "GENIE",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%9E"
+    }
+  ],
+  [
+    {
+      "unicode" : "1f9e0",
+      "emoji" : "🧠",
+      "description" : "BRAIN",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%A0"
+    },
+    {
+      "unicode" : "1f9e1",
+      "emoji" : "🧡",
+      "description" : "ORANGE HEART",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%A1"
+    },
+    {
+      "unicode" : "1f9e2",
+      "emoji" : "🧢",
+      "description" : "BILLED CAP",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%A2"
+    },
+    {
+      "unicode" : "1f9e3",
+      "emoji" : "🧣",
+      "description" : "SCARF",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%A3"
+    },
+    {
+      "unicode" : "1f9e4",
+      "emoji" : "🧤",
+      "description" : "GLOVES",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%A4"
+    },
+    {
+      "unicode" : "1f9e5",
+      "emoji" : "🧥",
+      "description" : "COAT",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%A5"
+    },
+    {
+      "unicode" : "1f9e6",
+      "emoji" : "🧦",
+      "description" : "SOCKS",
+      "wiki" : "https:\/\/en.wikipedia.org\/wiki\/%F0%9F%A7%A6"
+    }
+  ]
+]
