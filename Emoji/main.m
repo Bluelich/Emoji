@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "NSObject+YYModel.h"
+#import <mach-o/dyld.h>
 
 //U+指Unicode编码，数字为十六进制。
 static NSUInteger kEmojiCount      = 2623;
@@ -20,6 +21,8 @@ NSString *kUnicode = @"unicode";
 NSString *kDesc    = @"description";
 NSString *kWiki    = @"wiki";
 NSString *kEmoji   = @"emoji";
+
+NSString *kFull_emoji_list = @"http://www.unicode.org/emoji/charts/full-emoji-list.html";
 
 NSString *getStrWith(NSString *str){
     NSMutableString *string = [NSMutableString stringWithString:str];
@@ -86,6 +89,7 @@ NSString *getStrWith(NSString *str){
  2660 2663 2665-2666 2668
  267b 267f
  2692-2697 2699 269b-269c
+
  26a0-26a1 26aa-26ab
  26b0-26b1 26bd-26be
  26c4-26c5 26c8 26ce-26cf
@@ -169,12 +173,6 @@ void textToArrayJSON(){
     checkCount(array,kEmojiCount);
 }
 void wiki(){
-    NSString *a = @"🙆🏻‍♂️";
-    [a enumerateSubstringsInRange:NSMakeRange(0, a.length)  options:NSStringEnumerationByComposedCharacterSequences usingBlock:^(NSString * _Nullable substring, NSRange substringRange, NSRange enclosingRange, BOOL * _Nonnull stop) {
-        unichar char1 =[substring characterAtIndex:0];
-        NSLog(@"");
-    }];
-    return;
     NSString *str = [NSString stringWithContentsOfFile:@"/Users/zhouqiang/Desktop/str/str/emoji_wiki2.html" encoding:NSUTF8StringEncoding error:nil];
     NSArray<NSString *> *list = [str componentsSeparatedByString:@"[Prefix]"];
     NSMutableArray<NSDictionary<NSString *,id> *> *total = [NSMutableArray array];
@@ -229,7 +227,7 @@ void wiki(){
         NSMutableArray<NSString *> *array = [NSMutableArray array];
         [total enumerateObjectsUsingBlock:^(NSDictionary<NSString *,id> * _Nonnull obj, NSUInteger idx, BOOL * _Nonnull stop) {
             if (idx > 1070) {
-                NSString *a;
+                NSLog(@"");
             }
             NSScanner *scanner = [NSScanner scannerWithString:obj[kUnicode]];
             unsigned value = 0;
@@ -248,12 +246,81 @@ void wiki(){
     }
     //    writeToFile(all, @"emoji_wiki.json");
 }
+NSString* getExcutePath(){
+    char *buf = NULL;
+    uint32_t size = 0;
+    _NSGetExecutablePath(buf,&size);
+    char* path = (char*)malloc(size+1);
+    path[size] = 0;
+    _NSGetExecutablePath(path,&size);
+    char* pCur = strrchr(path, '/');
+    NSString* nsPath = [NSString stringWithUTF8String:path];
+    free(path);
+    path = NULL;
+    *pCur = 0;
+    return nsPath;
+}
+int emoji_unicode_to_symbol(int unicode){
+    int result = 0x808080F0 | (unicode & 0x3F000) >> 4;
+       result |= (unicode & 0xFC0) << 10;
+       result |= (unicode & 0x1C0000) << 18;
+       result |= (unicode & 0x3F) << 24;
+    return result;
+}
+//获取默认表情数组
+NSArray *defaultEmoticons(){
+    NSMutableArray *array = [NSMutableArray array];
+    int start = 0x1f600;
+    int end = 0x1F64F;
+//    int exclude_left = 0x1F641;
+//    int exclude_right = 0x1F644;
+//    start = 0x00a0;
+//    end   = 0x1f9ef;
+    for (int i = start; i <= end; i++) {
+        if (i >= 0x1F641 && i <= 0x1F644) {
+            continue;
+        }
+        int sym = emoji_unicode_to_symbol(i);
+        NSString *emoT = [[NSString alloc] initWithBytes:&sym length:sizeof(sym) encoding:NSUTF8StringEncoding];
+        [array addObject:emoT];
+    }
+    return array;
+}
+void uncoide_org(){
+        
+}
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        wiki();
+//        defaultEmoticons();
+        NSURL *url = [NSURL URLWithString:kFull_emoji_list];
+        [[[NSURLSession sharedSession] dataTaskWithURL:url completionHandler:^(NSData * _Nullable data, NSURLResponse * _Nullable response, NSError * _Nullable error) {
+            NSString *string = [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];
+            NSLog(@"");
+        }]resume];
+        NSRunLoop.currentRunLoop.run;
+        return 0;
+        /*
+//        wiki();
+        NSString *emoji = @"🙆🏻‍♂️";
+        const char *utf16 = [emoji cStringUsingEncoding:NSUTF16StringEncoding];
+        const char *unicode = [emoji cStringUsingEncoding:NSUnicodeStringEncoding];
+        printf("utf16:%s  \nunicode:%s\n",utf16,unicode);
+        char fnameStr[emoji.length];
+        memcpy(fnameStr, [emoji cStringUsingEncoding:NSUnicodeStringEncoding], emoji.length * 2);
+        [emoji enumerateSubstringsInRange:NSMakeRange(0, emoji.length)  options:NSStringEnumerationByComposedCharacterSequences usingBlock:^(NSString * _Nullable substring, NSRange substringRange, NSRange enclosingRange, BOOL * _Nonnull stop) {
+            NSString *aa = emoji;
+            unichar char1 = [substring characterAtIndex:0];
+            unichar c;
+            [substring getCharacters:&c];
+            c = 0;
+            [@"哈哈" getCharacters:&c];
+            NSLog(@"");
+        }];
+         */
     }
     return 0;
 }
+
 /*
  NSRegularExpression *expression = [NSRegularExpression regularExpressionWithPattern:@"http:\/\/www\.unicode\.org\/emoji\/charts\/emoji\-list\.html#(\\w{5})" options:NSRegularExpressionCaseInsensitive error:nil];
  */

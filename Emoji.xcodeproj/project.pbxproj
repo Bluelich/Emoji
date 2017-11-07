@@ -40,6 +40,9 @@
 		B44C0F801FA743730072D127 /* NSObject+YYModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+YYModel.m"; sourceTree = "<group>"; };
 		B44C0F811FA743730072D127 /* YYClassInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYClassInfo.m; sourceTree = "<group>"; };
 		B44C0F821FA743730072D127 /* NSObject+YYModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+YYModel.h"; sourceTree = "<group>"; };
+		B44E8BC81FA872C600CEFB2A /* Emoji.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Emoji.md; sourceTree = "<group>"; };
+		B44E8BC91FA8894B00CEFB2A /* emoji_count.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = emoji_count.html; sourceTree = "<group>"; };
+		B44E8BCA1FA8897100CEFB2A /* emoji_count.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = emoji_count.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,9 +75,9 @@
 		B44C0F6C1FA7430B0072D127 /* Emoji */ = {
 			isa = PBXGroup;
 			children = (
+				B44C0F6D1FA7430B0072D127 /* main.m */,
 				B44C0F7D1FA743730072D127 /* YYModel */,
 				B44C0F741FA743340072D127 /* Files */,
-				B44C0F6D1FA7430B0072D127 /* main.m */,
 			);
 			path = Emoji;
 			sourceTree = "<group>";
@@ -85,11 +88,14 @@
 				B44C0F751FA743340072D127 /* emoji.json */,
 				B44C0F761FA743340072D127 /* emoji_wiki2.html */,
 				B44C0F771FA743340072D127 /* emoji_wiki.html */,
+				B44E8BC91FA8894B00CEFB2A /* emoji_count.html */,
+				B44E8BCA1FA8897100CEFB2A /* emoji_count.png */,
 				B44C0F781FA743340072D127 /* wiki_Emoji.png */,
 				B44C0F791FA743340072D127 /* emoji_all.txt */,
 				B44C0F7A1FA743340072D127 /* emoji_128.txt */,
 				B44C0F7B1FA743340072D127 /* emoji_wiki.json */,
 				B44C0F7C1FA743340072D127 /* RegularExpression.md */,
+				B44E8BC81FA872C600CEFB2A /* Emoji.md */,
 			);
 			path = Files;
 			sourceTree = "<group>";
