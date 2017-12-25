@@ -44,3 +44,11 @@
     return self;
 }
 @end
+
+@implementation Emoji_Org
+- (NSUInteger)count
+{
+    NSNumber *total = [self.all_emojis valueForKeyPath:@"@sum.subCategories.emojis.@sum.@count"];
+    return total.unsignedIntegerValue;
+}
+@end

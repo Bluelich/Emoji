@@ -41,3 +41,7 @@
 @property (nonatomic,strong) NSMutableArray<EmojiSubCategory *> *subCategories;
 @end
 
+@interface Emoji_Org : NSObject
+@property (nonatomic,strong) NSArray<EmojiCategory *> *all_emojis;
+@property (nonatomic,assign,readonly)NSUInteger count;
+@end

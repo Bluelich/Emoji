@@ -7,6 +7,7 @@
 
 #import "Functions.h"
 #import <mach-o/dyld.h>
+#import "Ono.h"
 
 //U+指Unicode编码，数字为十六进制。
 static NSUInteger kEmojiCount      = 2623;
@@ -24,6 +25,76 @@ NSString *k_unicode_org_xml = @"http://www.unicode.org/emoji/charts/full-emoji-l
 //https://github.com/iamcal/emoji-data
 NSString *k_unicodey_com_xml    = @"https://unicodey.com/emoji-data/table.htm";
 
+Emoji_Org *all_emojis_org(){
+    NSString *xml = xmlDataForURL(k_unicode_org_xml, NO);
+    NSData *data = [xml dataUsingEncoding:NSUTF8StringEncoding];
+    NSError *error = nil;
+    ONOXMLDocument *document = [ONOXMLDocument HTMLDocumentWithData:data error:&error];
+    ONOXMLElement *body = [document.rootElement firstChildWithTag:@"body"];
+    ONOXMLElement *main = nil;
+    for (ONOXMLElement *element in body.children) {
+        if ([[element.attributes objectForKey:@"class"] isEqualToString:@"main"]) {
+            main = element;
+        }
+    }
+    NSMutableArray<EmojiCategory *> *array = [NSMutableArray array];
+    EmojiCategory    *category    = nil;
+    EmojiSubCategory *subCategory = nil;
+    for (ONOXMLElement *obj in [document XPath:@"//table[1]//tr"]) {
+        Emoji *emoji = nil;
+        for (ONOXMLElement *element in obj.children) {
+            //            printf("tag:%s attr:%s\n",element.tag.UTF8String,element.attributes.description.UTF8String);
+            ONOXMLElement *a = [element firstChildWithTag:@"a"];
+            NSString *class  = element.attributes[@"class"];
+            NSString *href   = a.attributes[@"href"];
+            NSString *name   = a.attributes[@"name"];
+            NSString *target = a.attributes[@"target"];
+            NSString *value  = a.stringValue;
+            if ([element.tag isEqualToString:@"th"]) {
+                if ([class isEqualToString:@"bighead"]) {
+                    category = [EmojiCategory new];
+                    category.href = href;
+                    category.name = name;
+                    category.category = value;
+                    category.class= class;
+                    [array addObject:category];
+                }else if ([class isEqualToString:@"mediumhead"]){
+                    subCategory = [EmojiSubCategory new];
+                    subCategory.subCategory = value;
+                    subCategory.href = href;
+                    subCategory.name = name;
+                    subCategory.class= class;
+                    [category.subCategories addObject:subCategory];
+                }else if ([class isEqualToString:@"rchars"]){
+                    printf("");
+                }
+            }else if ([element.tag isEqualToString:@"td"]){
+                if (!emoji) {
+                    emoji = [Emoji new];
+                    [subCategory.emojis addObject:emoji];
+                }
+                EmojiDescription *desc = [EmojiDescription new];
+                desc.class = class;
+                desc.desc  = value;
+                ONOXMLElement *imgElement = [element firstChildWithTag:@"img"];
+                if (imgElement) {
+                    EmojiImage *img = [EmojiImage new];
+                    img.src   = imgElement.attributes[@"src"];
+                    img.alt   = imgElement.attributes[@"alt"];
+                    img.class = imgElement.attributes[@"class"];
+                    desc.img = img;
+                }
+                [emoji.subEmojis addObject:desc];
+                printf("");
+            }else{
+                printf("");
+            }
+        }
+    }
+    Emoji_Org *org = [Emoji_Org new];
+    org.all_emojis = array;
+    return org;
+}
 
 NSString *pathForURL(NSString *url){
     NSString *fileName = [NSString stringWithFormat:@"%lud",url.hash];
