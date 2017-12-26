@@ -6,7 +6,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "Functions.h"
+#import "Emoji.h"
+#import "NSObject+YYModel.h"
 
 int main(int argc, const char * argv[]) {
 //    int a[4]={1,2,3,4};
@@ -14,17 +15,14 @@ int main(int argc, const char * argv[]) {
 //    int *ptr2 = (int *)((int)a+1);
 //    printf("%x,%x",ptr1[-1],*ptr2);
     
-    Emoji_Org *all_emojis = all_emojis_org();
-    [all_emojis.all_emojis enumerateObjectsUsingBlock:^(EmojiCategory * _Nonnull category, NSUInteger idx, BOOL * _Nonnull stop) {
-        [category.subCategories enumerateObjectsUsingBlock:^(EmojiSubCategory * _Nonnull subCategory, NSUInteger idx, BOOL * _Nonnull stop) {
-            [subCategory.emojis enumerateObjectsUsingBlock:^(Emoji * _Nonnull emoji, NSUInteger idx, BOOL * _Nonnull stop) {
-                [emoji.subEmojis enumerateObjectsUsingBlock:^(EmojiDescription * _Nonnull emojiDescription, NSUInteger idx, BOOL * _Nonnull stop) {
-                    printf("\n%s->%s->%s:%s",category.name.UTF8String,subCategory.name.UTF8String,emojiDescription.platform.UTF8String,emojiDescription.desc.UTF8String);
-                }];
-            }];
-        }];
-    }];
-    printf("\ntotal:%ld",all_emojis.count);
+    NSArray<EmojiCategory *> *all_emojis = Emojis.org;
+    id jsonObject = all_emojis.yy_modelToJSONObject;
+    NSError *error = nil;
+    NSData *JSONData = [NSJSONSerialization dataWithJSONObject:jsonObject options:NSJSONWritingSortedKeys | NSJSONWritingPrettyPrinted error:&error];
+    NSString *path = [NSSearchPathForDirectoriesInDomains(NSDesktopDirectory, NSUserDomainMask, YES).lastObject stringByAppendingString:@"/org.json"];
+    [JSONData writeToFile:path atomically:YES];
+    printf("\ntotal:%ld",Emojis.org_count);
+    printf("%s",all_emojis.description.UTF8String);
     [[NSRunLoop currentRunLoop] run];
     return 0;
 }

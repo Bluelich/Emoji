@@ -79,6 +79,10 @@ NSString *albumsTitles = [myRecordCollection valueForKeyPath: @"[concatenate: * 
  
 */
 
+
+/*
+    KVC 扩展
+ */
 void KBInitializeCollectionExtensions( void ); // call this in main before you do anything
 
 @interface NSObject ( KBCollectionExtensions )  <NSFastEnumeration>
