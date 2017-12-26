@@ -42,7 +42,6 @@
 		B478F1611FE7CD9900316143 /* Functions.m in Sources */ = {isa = PBXBuildFile; fileRef = B478F15F1FE7CD9900316143 /* Functions.m */; };
 		B48450681FE8AF95002FD098 /* libxml2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = B48450671FE8AF95002FD098 /* libxml2.tbd */; };
 		B484506A1FE8AF9D002FD098 /* libxml2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = B48450691FE8AF9D002FD098 /* libxml2.tbd */; };
-		B485FADB1FF214C0009D7E82 /* emoji_org.json in Resources */ = {isa = PBXBuildFile; fileRef = B485FADA1FF214C0009D7E82 /* emoji_org.json */; };
 		B4EC50EE1FED1D8E00694282 /* NSObject+YYModel.m in Sources */ = {isa = PBXBuildFile; fileRef = B4EC50EB1FED1D8E00694282 /* NSObject+YYModel.m */; };
 		B4EC50EF1FED1D8E00694282 /* NSObject+YYModel.m in Sources */ = {isa = PBXBuildFile; fileRef = B4EC50EB1FED1D8E00694282 /* NSObject+YYModel.m */; };
 		B4EC50F01FED1D8E00694282 /* YYClassInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = B4EC50EC1FED1D8E00694282 /* YYClassInfo.m */; };
@@ -105,8 +104,7 @@
 		B478F15F1FE7CD9900316143 /* Functions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Functions.m; sourceTree = "<group>"; };
 		B48450671FE8AF95002FD098 /* libxml2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libxml2.tbd; path = usr/lib/libxml2.tbd; sourceTree = SDKROOT; };
 		B48450691FE8AF9D002FD098 /* libxml2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libxml2.tbd; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libxml2.tbd; sourceTree = DEVELOPER_DIR; };
-		B485FADA1FF214C0009D7E82 /* emoji_org.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = emoji_org.json; sourceTree = "<group>"; };
-		B4EC50E91FED1D8E00694282 /* YYClassInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYClassInfo.h; sourceTree = "<group>"; };
+		B4EC50E91FED1D8E00694282 /* YYClassInfo.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; path = YYClassInfo.h; sourceTree = "<group>"; };
 		B4EC50EA1FED1D8E00694282 /* YYModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYModel.h; sourceTree = "<group>"; };
 		B4EC50EB1FED1D8E00694282 /* NSObject+YYModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+YYModel.m"; sourceTree = "<group>"; };
 		B4EC50EC1FED1D8E00694282 /* YYClassInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYClassInfo.m; sourceTree = "<group>"; };
@@ -225,7 +223,6 @@
 			isa = PBXGroup;
 			children = (
 				B478F1391FE7CD2400316143 /* emoji.json */,
-				B485FADA1FF214C0009D7E82 /* emoji_org.json */,
 				B478F13B1FE7CD2400316143 /* emoji_all.txt */,
 				B478F1401FE7CD2400316143 /* emoji_128.txt */,
 				B478F1381FE7CD2400316143 /* emoji_wiki.html */,
@@ -364,7 +361,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				B478F15B1FE7CD2500316143 /* lastModified.js in Resources */,
-				B485FADB1FF214C0009D7E82 /* emoji_org.json in Resources */,
 				B478F1571FE7CD2500316143 /* logo60s2.gif in Resources */,
 				B478F1591FE7CD2500316143 /* hb_notice.gif in Resources */,
 				B478F1561FE7CD2500316143 /* emoji_wiki.json in Resources */,

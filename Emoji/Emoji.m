@@ -260,7 +260,7 @@ NSString *downloadXML(NSString *url){
     }
     return retval;
 }
-NSString *EmojiRegex(){
+NSRegularExpression *EmojiRegex(){
     /*
      //EBNF
      
@@ -296,7 +296,9 @@ NSString *EmojiRegex(){
      如果不支持ZWJ,则ZWJ会被忽略,显示👨👩👧
      
      */
-    return @"";
+    NSError *error = nil;
+    NSRegularExpression *regx = [NSRegularExpression regularExpressionWithPattern:@"\u200d" options:NSRegularExpressionCaseInsensitive error:&error];
+    return regx;
 }
 NSString *arc4randomString(){
     /*
