@@ -15,7 +15,6 @@ NSUInteger const kEmojiCount_wiki = 1079;
 NSString *kNumberKey     = @"value";
 NSString *kStringKey     = @"string";
 NSString *kFullStringKey = @"string_full";
-
 NSString *kUnicode = @"unicode";
 NSString *kDesc    = @"description";
 NSString *kWiki    = @"wiki";
@@ -260,4 +259,42 @@ NSString *downloadXML(NSString *url){
         saveXML(retval, url);
     }
     return retval;
+}
+NSString *EmojiRegex(){
+    /*
+     //EBNF
+     
+     200D : joiner
+     RI   : Regional_Indicator
+     Mn   : Nonspacing_Mark
+     FE0F : emoji VS
+     E00xx: tags
+     E007F: the TERM tag.
+     
+     possible_emoji := possible_zwj_element (\x{200D} possible_zwj_element)+
+     
+     possible_zwj_element :=
+        \p{RI} \p{RI}
+     | \p{Emoji} emoji_modification?
+     
+     emoji_modification :=
+        \p{EMD}
+     | \x{FE0F}? \p{Mn}*
+     | [\x{E0020}-\x{E007E}]+ \x{E007F}
+     
+     //Regex
+     (\p{Regional_Indicator} \p{Regional_Indicator}
+     | \p{Emoji} (\p{Emoji_Modifier} | \x{FE0F}? \p{Nonspacing_Mark}* | [\x{E0020}-\x{E007E}]+ \x{E007F})?)
+        ( \x{200D}
+     (\p{Regional_Indicator} \p{Regional_Indicator}
+     | \p{Emoji} (\p{Emoji_Modifier} | \x{FE0F}? \p{Nonspacing_Mark}* | [\x{E0020}-\x{E007E}]+ \x{E007F})?))+
+     
+     */
+    /*
+     U+200D零宽连字符 (zero-width joiner，ZWJ)是一个不打印字符，放在某些需要复杂排版语言（如阿拉伯语、印地语）的两个字符之间，使得这两个本不会发生连字的字符产生了连字效果。零宽连字符的Unicode码位是U+200D (HTML: &#8205; &zwj;）。
+     U+1F468(男人) + U+200D(ZWJ) + U+1F469(女人) + U+200D(ZWJ) + U+1F467(女孩) = 👨‍👩‍👧
+     如果不支持ZWJ,则ZWJ会被忽略,显示👨👩👧
+     
+     */
+    return @"";
 }
